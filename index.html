@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Not Solitaire Achievements</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Not Solitaire Achievements</h1>
+  <div class="actions">
+    <label class="btn" for="file">Upload dump</label>
+    <input id="file" type="file" accept=".json,application/json" hidden>
+    <button id="clear" class="btn secondary" hidden>Clear dump</button>
+  </div>
+</header>
+
+<p class="hint" id="hint">
+  Get your dump from <a href="https://notsolitaire.com/api/achievements" target="_blank" rel="noopener">notsolitaire.com/api/achievements</a>,
+  save it, then upload it here (or drop it on this page). It is read in your browser and never uploaded.
+</p>
+<p id="error" class="error" hidden></p>
+
+<main id="app"><p class="muted">Loading…</p></main>
+
+<div id="drop" hidden>Drop your dump file</div>
+<script src="index.js"></script>
+</body>
+</html>
