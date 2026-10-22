@@ -3647,14 +3647,6 @@
         "desc": "",
         "notes": "I dont think this is an actual achievment, i think its the placeholder if a user's emoji is broken"
     },
-    "z8": {
-        "key": "z8",
-        "name": "Long-Lost Deal",
-        "icon": "\ud83d\udddd\ufe0f",
-        "tier": "unknown",
-        "desc": "Win a deal that has been dealt twenty times without a single win.",
-        "notes": ""
-    },
     "k17a5625ec5e": {
         "key": "k17a5625ec5e",
         "name": "Masquerade",
@@ -3757,6 +3749,70 @@
         "icon": "🏮",
         "tier": "rare",
         "desc": "A neighbor wins a deal right after watching you win it.",
+        "notes": ""
+    },
+    "k4b0bd21e25f": {
+        "key": "k4b0bd21e25f",
+        "name": "Long-Lost Deal",
+        "icon": "🗝️",
+        "tier": "epic",
+        "desc": "Win a deal that has been dealt twenty times without a single win.",
+        "notes": ""
+    },
+    "k8b9a43b990c": {
+        "key": "k8b9a43b990c",
+        "name": "Peas in a Pod",
+        "icon": "🫛",
+        "tier": "rare",
+        "desc": "You and both neighbors wear the same emoji.",
+        "notes": ""
+    },
+    "ka2d2b67c23c": {
+        "key": "ka2d2b67c23c",
+        "name": "Giant Sequoia",
+        "icon": "🌲",
+        "tier": "epic",
+        "desc": "Witness a neighbor build a nineteen-card tableau pile.",
+        "notes": ""
+    },
+    "kbac9e732278": {
+        "key": "kbac9e732278",
+        "name": "Dan's Curse",
+        "icon": "🐎",
+        "tier": "uncommon",
+        "desc": "Hit reset or new deal after the auto complete prompt appears (instead of winning).",
+        "notes": ""
+    },
+    "kcc3ba870afe": {
+        "key": "kcc3ba870afe",
+        "name": "Lockstep",
+        "icon": "👣",
+        "tier": "rare",
+        "desc": "Tie exactly with a neighbor on the very same deal, ten cards or more.",
+        "notes": ""
+    },
+    "k00b8a49c02c": {
+        "key": "k00b8a49c02c",
+        "name": "Dress Code",
+        "icon": "👔",
+        "tier": "epic",
+        "desc": "You and both neighbors wear the same emoji, and it isn't one of the starter animals.",
+        "notes": ""
+    },
+    "k9b1a8940953": {
+        "key": "k9b1a8940953",
+        "name": "Bronze Age",
+        "icon": "🥉",
+        "tier": "uncommon",
+        "desc": "Be the day's third win, worldwide.",
+        "notes": ""
+    },
+    "kfd0e6b39e0f": {
+        "key": "kfd0e6b39e0f",
+        "name": "Century Mark",
+        "icon": "🎖️",
+        "tier": "rare",
+        "desc": "Be win #100 of the day, worldwide.",
         "notes": ""
     }
 }
