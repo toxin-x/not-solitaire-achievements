@@ -2,7 +2,7 @@
     "k3cfe068dc32": {
         "key": "k3cfe068dc32",
         "name": "Serial Dater",
-        "icon": "\ud83d\udc8c",
+        "icon": "💌",
         "tier": "rare",
         "desc": "Abandon 50 deals.",
         "notes": ""
@@ -10,7 +10,7 @@
     "kef10ef50e3e": {
         "key": "kef10ef50e3e",
         "name": "Ace Chaser",
-        "icon": "\ud83c\udfaf",
+        "icon": "🎯",
         "tier": "rare",
         "desc": "All four aces up within your first dozen moves.",
         "notes": ""
@@ -18,7 +18,7 @@
     "kcba29d2d068": {
         "key": "kcba29d2d068",
         "name": "Ace in the Hole",
-        "icon": "\ud83e\udea4",
+        "icon": "🪤",
         "tier": "uncommon",
         "desc": "Win a deal whose deepest buried card is an Ace.",
         "notes": ""
@@ -26,7 +26,7 @@
     "k80710c3d8cf": {
         "key": "k80710c3d8cf",
         "name": "Achievement Checker",
-        "icon": "\ud83c\udfc6",
+        "icon": "🏆",
         "tier": "common",
         "desc": "Keep the achievements panel open for 30 seconds.",
         "notes": ""
@@ -34,7 +34,7 @@
     "k1d4d302b024": {
         "key": "k1d4d302b024",
         "name": "Against the Odds",
-        "icon": "\ud83c\udfb2",
+        "icon": "🎲",
         "tier": "rare",
         "desc": "Witness the same neighbor win three different five-star deals.",
         "notes": ""
@@ -42,7 +42,7 @@
     "kbfd85266193": {
         "key": "kbfd85266193",
         "name": "Aged Like Wine",
-        "icon": "\ud83c\udf77",
+        "icon": "🍷",
         "tier": "rare",
         "desc": "Win a deal more than three hours after dealing it.",
         "notes": ""
@@ -50,7 +50,7 @@
     "ka1c7628aa09": {
         "key": "ka1c7628aa09",
         "name": "Aim Low",
-        "icon": "\ud83e\ude82",
+        "icon": "🪂",
         "tier": "uncommon",
         "desc": "Place an ace on the tableau instead of the foundations.",
         "notes": ""
@@ -58,7 +58,7 @@
     "k2443facfe1d": {
         "key": "k2443facfe1d",
         "name": "Allegro",
-        "icon": "\ud83c\udfb9",
+        "icon": "🎹",
         "tier": "rare",
         "desc": "Average less than a second and a half per move across a whole win.",
         "notes": ""
@@ -66,7 +66,7 @@
     "kb85a4d0d6a0": {
         "key": "kb85a4d0d6a0",
         "name": "All Hours",
-        "icon": "\ud83d\udd5b",
+        "icon": "🕛",
         "tier": "epic",
         "desc": "Win in twenty different hours of the day.",
         "notes": ""
@@ -74,7 +74,7 @@
     "k6c8959f7a21": {
         "key": "k6c8959f7a21",
         "name": "Ant Colony",
-        "icon": "\ud83d\udc1c",
+        "icon": "🐜",
         "tier": "rare",
         "desc": "You and both neighbors send 1,000 cards home in one sitting.",
         "notes": ""
@@ -82,7 +82,7 @@
     "k36d0f5e0682": {
         "key": "k36d0f5e0682",
         "name": "U Okay?",
-        "icon": "\ud83d\ude35\u200d\ud83d\udcab",
+        "icon": "😵‍💫",
         "tier": "common",
         "desc": "Misclick five times in a row.",
         "notes": ""
@@ -90,7 +90,7 @@
     "k752de3d758c": {
         "key": "k752de3d758c",
         "name": "Finishing Move",
-        "icon": "\ud83d\udd1a",
+        "icon": "🔚",
         "tier": "uncommon",
         "desc": "Use Auto Complete ten times.",
         "notes": ""
@@ -98,7 +98,7 @@
     "k02c72ea0107": {
         "key": "k02c72ea0107",
         "name": "Dan the Automator",
-        "icon": "\ud83e\uddbe",
+        "icon": "🦾",
         "tier": "rare",
         "desc": "Use Auto Complete 100 times.",
         "notes": ""
@@ -106,7 +106,7 @@
     "k51dc55d6c6c": {
         "key": "k51dc55d6c6c",
         "name": "Back Atcha",
-        "icon": "\ud83e\udef8",
+        "icon": "🫸",
         "tier": "common",
         "desc": "High-five someone back.",
         "notes": ""
@@ -114,7 +114,7 @@
     "k68aa3f821f3": {
         "key": "k68aa3f821f3",
         "name": "Back in Black",
-        "icon": "\u26ab",
+        "icon": "⚫",
         "tier": "common",
         "desc": "Finish both black suits before either red suit.",
         "notes": ""
@@ -122,7 +122,7 @@
     "k9ddd7545cc4": {
         "key": "k9ddd7545cc4",
         "name": "Back to Work",
-        "icon": "\ud83d\udc77",
+        "icon": "👷",
         "tier": "uncommon",
         "desc": "Pull a card down off the foundations, then build on it.",
         "notes": ""
@@ -130,7 +130,7 @@
     "kb81d157e0d3": {
         "key": "kb81d157e0d3",
         "name": "Balanced Diet",
-        "icon": "\u2696\ufe0f",
+        "icon": "⚖️",
         "tier": "uncommon",
         "desc": "Have exactly four cards on all four foundations.",
         "notes": ""
@@ -138,7 +138,7 @@
     "kf72da1fa694": {
         "key": "kf72da1fa694",
         "name": "Been There",
-        "icon": "\ud83e\udded",
+        "icon": "🧭",
         "tier": "uncommon",
         "desc": "Witness a win on a deal you have solved yourself.",
         "notes": ""
@@ -146,7 +146,7 @@
     "k5e5913820c2": {
         "key": "k5e5913820c2",
         "name": "Beginner's Luck",
-        "icon": "\ud83c\udf40",
+        "icon": "🍀",
         "tier": "rare",
         "desc": "Witness a neighbor's very first win.",
         "notes": ""
@@ -154,7 +154,7 @@
     "kf4babdf8eeb": {
         "key": "kf4babdf8eeb",
         "name": "Bespoke",
-        "icon": "\u2702\ufe0f",
+        "icon": "✂️",
         "tier": "uncommon",
         "desc": "Witness a win finished entirely by hand, no Auto Complete.",
         "notes": ""
@@ -162,7 +162,7 @@
     "k62180d4c437": {
         "key": "k62180d4c437",
         "name": "Best Friends",
-        "icon": "\ud83e\uddf6",
+        "icon": "🧶",
         "tier": "epic",
         "desc": "Have the same emoji as a neighbor on seven different days.",
         "notes": ""
@@ -170,7 +170,7 @@
     "k03b8cd200fc": {
         "key": "k03b8cd200fc",
         "name": "Birdwatcher",
-        "icon": "\ud83e\udda9",
+        "icon": "🦩",
         "tier": "uncommon",
         "desc": "Watch ten different neighbors come and go without touching a card.",
         "notes": ""
@@ -178,7 +178,7 @@
     "kcb1cb8a595d": {
         "key": "kcb1cb8a595d",
         "name": "Blackout",
-        "icon": "\ud83c\udfb1",
+        "icon": "🎱",
         "tier": "uncommon",
         "desc": "All seven top tableau cards are black.",
         "notes": ""
@@ -186,7 +186,7 @@
     "k80f450a1960": {
         "key": "k80f450a1960",
         "name": "Blink and You Missed It",
-        "icon": "\ud83d\ude09",
+        "icon": "😉",
         "tier": "rare",
         "desc": "Witness a win in under a minute.",
         "notes": ""
@@ -194,7 +194,7 @@
     "ka86b14e70fb": {
         "key": "ka86b14e70fb",
         "name": "Bookends",
-        "icon": "\ud83d\udcd5",
+        "icon": "📕",
         "tier": "uncommon",
         "desc": "Play in the morning and again at night on the same day.",
         "notes": ""
@@ -202,7 +202,7 @@
     "k9231b6bbbd5": {
         "key": "k9231b6bbbd5",
         "name": "Boom Town",
-        "icon": "\ud83c\udfd9\ufe0f",
+        "icon": "🏙️",
         "tier": "epic",
         "desc": "Witness the daily win counter pass 250.",
         "notes": ""
@@ -210,7 +210,7 @@
     "k77d5cdefc73": {
         "key": "k77d5cdefc73",
         "name": "Buried Treasure",
-        "icon": "\ud83e\uddb4",
+        "icon": "🦴",
         "tier": "uncommon",
         "desc": "Reveal the King of Diamonds from the deepest position of the rightmost column.",
         "notes": ""
@@ -218,7 +218,7 @@
     "k205ccdcdd4a": {
         "key": "k205ccdcdd4a",
         "name": "Cart Before the Horse",
-        "icon": "\ud83d\uded2",
+        "icon": "🛒",
         "tier": "uncommon",
         "desc": "Draw two cards that could be played sequentially to your tableau... except they're in the wrong order.",
         "notes": ""
@@ -226,7 +226,7 @@
     "k56f04e6dedd": {
         "key": "k56f04e6dedd",
         "name": "Cautionary Tale",
-        "icon": "\ud83e\udea6",
+        "icon": "🪦",
         "tier": "rare",
         "desc": "A neighbor watches you give up on a deal, then wins it.",
         "notes": ""
@@ -234,7 +234,7 @@
     "k39fcfac1e08": {
         "key": "k39fcfac1e08",
         "name": "Celebrity Sighting",
-        "icon": "\ud83e\udd29",
+        "icon": "🤩",
         "tier": "epic",
         "desc": "Have a neighbor with 100 wins.",
         "notes": ""
@@ -242,7 +242,7 @@
     "kcb5f869e3c1": {
         "key": "kcb5f869e3c1",
         "name": "Centurion Crowd",
-        "icon": "\ud83d\udce2",
+        "icon": "📢",
         "tier": "epic",
         "desc": "Witness the daily win counter hit 100.",
         "notes": ""
@@ -250,7 +250,7 @@
     "kd8802a7c3b5": {
         "key": "kd8802a7c3b5",
         "name": "Change of Heart",
-        "icon": "\ud83d\udd03",
+        "icon": "🔃",
         "tier": "uncommon",
         "desc": "Drag a card and drop it back where it started five times in one game.",
         "notes": ""
@@ -258,7 +258,7 @@
     "k1c7056397bb": {
         "key": "k1c7056397bb",
         "name": "Character Builder",
-        "icon": "\ud83c\udfcb\ufe0f",
+        "icon": "🏋️",
         "tier": "uncommon",
         "desc": "Abandon ten deals.",
         "notes": ""
@@ -266,7 +266,7 @@
     "k1ea102ddfc9": {
         "key": "k1ea102ddfc9",
         "name": "Clean Hands",
-        "icon": "\ud83e\uddfc",
+        "icon": "🧼",
         "tier": "common",
         "desc": "Win without a single misclick.",
         "notes": ""
@@ -274,7 +274,7 @@
     "keef7bdd6c89": {
         "key": "keef7bdd6c89",
         "name": "Clockwork",
-        "icon": "\u23f0",
+        "icon": "⏰",
         "tier": "rare",
         "desc": "Win during the first minute of any hour.",
         "notes": ""
@@ -282,7 +282,7 @@
     "k55bac4fc1f9": {
         "key": "k55bac4fc1f9",
         "name": "Close Shave",
-        "icon": "\ud83e\ude92",
+        "icon": "🪒",
         "tier": "uncommon",
         "desc": "Set the lowest winning move count ever recorded on a deal.",
         "notes": ""
@@ -290,7 +290,7 @@
     "k4498fea3645": {
         "key": "k4498fea3645",
         "name": "Comeback",
-        "icon": "\ud83d\udc0c",
+        "icon": "🐌",
         "tier": "rare",
         "desc": "Overcome a twenty-card deficit to beat a neighbor to the win.",
         "notes": ""
@@ -298,7 +298,7 @@
     "k485e4c82571": {
         "key": "k485e4c82571",
         "name": "Seen it All",
-        "icon": "\ud83c\udfdb\ufe0f",
+        "icon": "🏛️",
         "tier": "epic",
         "desc": "Witness 100 wins.",
         "notes": ""
@@ -306,7 +306,7 @@
     "k4149e64ec99": {
         "key": "k4149e64ec99",
         "name": "Completionist",
-        "icon": "\ud83d\udcc0",
+        "icon": "📀",
         "tier": "epic",
         "desc": "Unlock 250 achievements.",
         "notes": ""
@@ -314,7 +314,7 @@
     "k34d88b0a6c8": {
         "key": "k34d88b0a6c8",
         "name": "It's a Party",
-        "icon": "\ud83c\udf8a",
+        "icon": "🎊",
         "tier": "epic",
         "desc": "Witness two neighbors win within half a second of each other.",
         "notes": ""
@@ -322,7 +322,7 @@
     "k17e8eec8aec": {
         "key": "k17e8eec8aec",
         "name": "Confidently Wrong",
-        "icon": "\ud83e\udd9a",
+        "icon": "🦚",
         "tier": "rare",
         "desc": "Win with ten misclicks and not a single undo.",
         "notes": ""
@@ -330,7 +330,7 @@
     "k56725e85105": {
         "key": "k56725e85105",
         "name": "Connoisseur",
-        "icon": "\ud83e\uddd0",
+        "icon": "🧐",
         "tier": "rare",
         "desc": "Witness a win at every difficulty.",
         "notes": ""
@@ -338,7 +338,7 @@
     "ke17a2fbd426": {
         "key": "ke17a2fbd426",
         "name": "Copycat",
-        "icon": "\ud83d\udc08",
+        "icon": "🐈",
         "tier": "rare",
         "desc": "Win two games in a row with exactly the same move count.",
         "notes": ""
@@ -346,7 +346,7 @@
     "ke9147b08519": {
         "key": "ke9147b08519",
         "name": "Couple",
-        "icon": "\ud83d\udc91",
+        "icon": "💑",
         "tier": "uncommon",
         "desc": "Draw the Queen and King of Spades together.",
         "notes": ""
@@ -354,7 +354,7 @@
     "ka07f28da4ca": {
         "key": "ka07f28da4ca",
         "name": "Court Is In Session",
-        "icon": "\ud83d\udc68\u200d\u2696\ufe0f",
+        "icon": "👨‍⚖️",
         "tier": "uncommon",
         "desc": "Have all four Kings at the base of the four left-most tableau columns at once.",
         "notes": ""
@@ -362,7 +362,7 @@
     "k41439a7419f": {
         "key": "k41439a7419f",
         "name": "I Didn't See Nothin'",
-        "icon": "\ud83d\ude48",
+        "icon": "🙈",
         "tier": "rare",
         "desc": "Witness a neighbor misclick ten times in a row.",
         "notes": ""
@@ -370,7 +370,7 @@
     "kd84517c95f2": {
         "key": "kd84517c95f2",
         "name": "Crowd Pleaser",
-        "icon": "\ud83e\ude87",
+        "icon": "🪇",
         "tier": "rare",
         "desc": "Get three high fives on one win.",
         "notes": ""
@@ -378,7 +378,7 @@
     "kb3d4964b669": {
         "key": "kb3d4964b669",
         "name": "Daily Devotion",
-        "icon": "\u26f2",
+        "icon": "⛲",
         "tier": "rare",
         "desc": "Win seven days in a row.",
         "notes": ""
@@ -386,7 +386,7 @@
     "k15b78e747cb": {
         "key": "k15b78e747cb",
         "name": "Daily Habit",
-        "icon": "\ud83e\udea5",
+        "icon": "🪥",
         "tier": "uncommon",
         "desc": "Win three days in a row.",
         "notes": ""
@@ -394,7 +394,7 @@
     "kbaf51a6327f": {
         "key": "kbaf51a6327f",
         "name": "Milestone Witness",
-        "icon": "\ud83d\uddff",
+        "icon": "🗿",
         "tier": "epic",
         "desc": "Witness the daily win counter hit 1,000.",
         "notes": ""
@@ -402,7 +402,7 @@
     "kde7c7ed96b3": {
         "key": "kde7c7ed96b3",
         "name": "Dark Horse",
-        "icon": "\ud83d\udc34",
+        "icon": "🐴",
         "tier": "uncommon",
         "desc": "Witness a neighbor overcome a twenty-card deficit to beat you to the win.",
         "notes": ""
@@ -410,7 +410,7 @@
     "k554d9493635": {
         "key": "k554d9493635",
         "name": "Dawn Patrol",
-        "icon": "\ud83c\udf04",
+        "icon": "🌄",
         "tier": "uncommon",
         "desc": "Deal a game between four and six in the morning.",
         "notes": ""
@@ -418,7 +418,7 @@
     "kd04d5e7db30": {
         "key": "kd04d5e7db30",
         "name": "Nope",
-        "icon": "\ud83d\ude2b",
+        "icon": "😫",
         "tier": "uncommon",
         "desc": "Draw through the whole stock twice without a single playable card appearing.",
         "notes": ""
@@ -426,7 +426,7 @@
     "k6e7641156f5": {
         "key": "k6e7641156f5",
         "name": "Deal Record",
-        "icon": "\ud83d\udcca",
+        "icon": "📊",
         "tier": "uncommon",
         "desc": "Set the fastest win ever recorded on a deal.",
         "notes": ""
@@ -434,7 +434,7 @@
     "kf2a087d39e9": {
         "key": "kf2a087d39e9",
         "name": "World Tour",
-        "icon": "\ud83c\udf0d",
+        "icon": "🌍",
         "tier": "uncommon",
         "desc": "Deal 100 different puzzles.",
         "notes": ""
@@ -442,7 +442,7 @@
     "k95ed33f6b49": {
         "key": "k95ed33f6b49",
         "name": "Dug Deep",
-        "icon": "\u26cf\ufe0f",
+        "icon": "⛏️",
         "tier": "rare",
         "desc": "Witness a win that took eight recycles.",
         "notes": ""
@@ -450,7 +450,7 @@
     "k3e60f745793": {
         "key": "k3e60f745793",
         "name": "Deep End",
-        "icon": "\ud83c\udfca",
+        "icon": "🏊",
         "tier": "rare",
         "desc": "Reach ten hours of play.",
         "notes": ""
@@ -458,15 +458,15 @@
     "kbe1188bea71": {
         "key": "kbe1188bea71",
         "name": "Deep Secrets",
-        "icon": "\ud83d\udd13",
+        "icon": "🔓",
         "tier": "uncommon",
         "desc": "Win with your final face-down flip in your last ten moves.",
         "notes": ""
     },
     "k640a1fdc23c": {
         "key": "k640a1fdc23c",
-        "name": "D\u00e9j\u00e0 Vu",
-        "icon": "\ud83d\udd01",
+        "name": "Déjà Vu",
+        "icon": "🔁",
         "tier": "common",
         "desc": "Witness the same emoji win the same deal twice.",
         "notes": ""
@@ -474,7 +474,7 @@
     "kee4f4f5d3ef": {
         "key": "kee4f4f5d3ef",
         "name": "Bunny Slopes",
-        "icon": "\ud83d\udc30",
+        "icon": "🐰",
         "tier": "common",
         "desc": "Win five one-star deals.",
         "notes": ""
@@ -482,7 +482,7 @@
     "k1925242ecd9": {
         "key": "k1925242ecd9",
         "name": "Green Circuit",
-        "icon": "\ud83d\udfe2",
+        "icon": "🟢",
         "tier": "common",
         "desc": "Win five two-star deals.",
         "notes": ""
@@ -490,7 +490,7 @@
     "k17e7f807b68": {
         "key": "k17e7f807b68",
         "name": "Journeyman",
-        "icon": "\ud83e\uddf0",
+        "icon": "🧰",
         "tier": "uncommon",
         "desc": "Win five three-star deals.",
         "notes": ""
@@ -498,7 +498,7 @@
     "k29307a65d3c": {
         "key": "k29307a65d3c",
         "name": "Black Diamond",
-        "icon": "\ud83c\udfbf",
+        "icon": "🎿",
         "tier": "rare",
         "desc": "Win five four-star deals.",
         "notes": ""
@@ -506,7 +506,7 @@
     "k2112a4a3c81": {
         "key": "k2112a4a3c81",
         "name": "Peak Performer",
-        "icon": "\ud83d\udea0",
+        "icon": "🚠",
         "tier": "epic",
         "desc": "Win ten five-star deals.",
         "notes": ""
@@ -514,15 +514,15 @@
     "kcce5460fca0": {
         "key": "kcce5460fca0",
         "name": "Summit Regular",
-        "icon": "\ud83d\udea9",
+        "icon": "🚩",
         "tier": "epic",
         "desc": "Win five five-star deals.",
         "notes": ""
     },
     "k022accf602e": {
         "key": "k022accf602e",
-        "name": "Doppelg\u00e4nger",
-        "icon": "\ud83e\udee5",
+        "name": "Doppelgänger",
+        "icon": "🫥",
         "tier": "uncommon",
         "desc": "Have a neighbor wearing your emoji.",
         "notes": ""
@@ -530,7 +530,7 @@
     "k39d7ea0313f": {
         "key": "k39d7ea0313f",
         "name": "Double Feature",
-        "icon": "\ud83c\udfac",
+        "icon": "🎬",
         "tier": "epic",
         "desc": "Witness two neighbors win in exactly the same number of moves during one of your deals.",
         "notes": ""
@@ -538,7 +538,7 @@
     "kfdd69bb2c30": {
         "key": "kfdd69bb2c30",
         "name": "Drag Racer",
-        "icon": "\ud83e\udea2",
+        "icon": "🪢",
         "tier": "uncommon",
         "desc": "Make 1,000 drag moves.",
         "notes": ""
@@ -546,7 +546,7 @@
     "k574cc5fd7ea": {
         "key": "k574cc5fd7ea",
         "name": "Dealer's Apprentice",
-        "icon": "\ud83e\uddd2",
+        "icon": "🧒",
         "tier": "uncommon",
         "desc": "Draw from the stock 500 times.",
         "notes": ""
@@ -554,7 +554,7 @@
     "k3a45e16b94d": {
         "key": "k3a45e16b94d",
         "name": "Casino Floor",
-        "icon": "\ud83d\udcb5",
+        "icon": "💵",
         "tier": "rare",
         "desc": "Draw from the stock 5,000 times.",
         "notes": ""
@@ -562,7 +562,7 @@
     "k7ed0aad5f74": {
         "key": "k7ed0aad5f74",
         "name": "Dry Spell",
-        "icon": "\ud83e\udeab",
+        "icon": "🪫",
         "tier": "common",
         "desc": "Draw ten times in a row with nothing playable.",
         "notes": ""
@@ -570,7 +570,7 @@
     "k43139a0912e": {
         "key": "k43139a0912e",
         "name": "Easy Does It",
-        "icon": "\ud83e\uddf8",
+        "icon": "🧸",
         "tier": "common",
         "desc": "Witness wins on six different one-star deals.",
         "notes": ""
@@ -578,7 +578,7 @@
     "kf923b635e4a": {
         "key": "kf923b635e4a",
         "name": "Editing",
-        "icon": "\ud83d\udcdd",
+        "icon": "📝",
         "tier": "rare",
         "desc": "Witness a neighbor undo 65 times in one game.",
         "notes": ""
@@ -586,7 +586,7 @@
     "ka3d3dda5008": {
         "key": "ka3d3dda5008",
         "name": "Encore",
-        "icon": "\ud83c\udfad",
+        "icon": "🎭",
         "tier": "uncommon",
         "desc": "Win the same deal twice.",
         "notes": ""
@@ -594,7 +594,7 @@
     "k09f7d8974b0": {
         "key": "k09f7d8974b0",
         "name": "Five Mythics",
-        "icon": "\ud83d\udcab",
+        "icon": "💫",
         "tier": "epic",
         "desc": "Unlock five mythic achievements.",
         "notes": ""
@@ -602,7 +602,7 @@
     "ka7551420a7b": {
         "key": "ka7551420a7b",
         "name": "False Start",
-        "icon": "\ud83d\udea6",
+        "icon": "🚦",
         "tier": "common",
         "desc": "Your very first act of a game is a misclick.",
         "notes": ""
@@ -610,7 +610,7 @@
     "k163716d3dbc": {
         "key": "k163716d3dbc",
         "name": "Fermata",
-        "icon": "\u23f8\ufe0f",
+        "icon": "⏸️",
         "tier": "rare",
         "desc": "Pause five minutes between two moves, then win without another pause over 30 seconds.",
         "notes": ""
@@ -618,7 +618,7 @@
     "k1aec407cacb": {
         "key": "k1aec407cacb",
         "name": "Field Guide",
-        "icon": "\ud83d\udd0d",
+        "icon": "🔍",
         "tier": "rare",
         "desc": "Have had eighteen of the 24 animal emoji as neighbors.",
         "notes": ""
@@ -626,7 +626,7 @@
     "k0f427b43dbc": {
         "key": "k0f427b43dbc",
         "name": "Fine-Tuning",
-        "icon": "\ud83d\udd2c",
+        "icon": "🔬",
         "tier": "uncommon",
         "desc": "Win a deal you've won before with fewer undos and misclicks than last time.",
         "notes": ""
@@ -634,7 +634,7 @@
     "k9ab9acb93f9": {
         "key": "k9ab9acb93f9",
         "name": "First Cup",
-        "icon": "\u2615\ufe0f",
+        "icon": "☕️",
         "tier": "common",
         "desc": "Win your day's very first deal.",
         "notes": ""
@@ -642,7 +642,7 @@
     "k820d1fc1d03": {
         "key": "k820d1fc1d03",
         "name": "Pull Up a Chair",
-        "icon": "\ud83e\ude91",
+        "icon": "🪑",
         "tier": "common",
         "desc": "Deal your first game.",
         "notes": ""
@@ -650,7 +650,7 @@
     "k5309e39dab7": {
         "key": "k5309e39dab7",
         "name": "First Impression",
-        "icon": "\ud83c\udf93",
+        "icon": "🎓",
         "tier": "uncommon",
         "desc": "Your win is the first win a neighbor ever witnessed.",
         "notes": ""
@@ -658,7 +658,7 @@
     "k74a63289baa": {
         "key": "k74a63289baa",
         "name": "Oops",
-        "icon": "\ud83e\udee2",
+        "icon": "🫢",
         "tier": "common",
         "desc": "Tap a card that has nowhere to go.",
         "notes": ""
@@ -666,7 +666,7 @@
     "kbb10bbb80bc": {
         "key": "kbb10bbb80bc",
         "name": "First Responder",
-        "icon": "\ud83d\ude91",
+        "icon": "🚑",
         "tier": "common",
         "desc": "Witness a neighbor give up within a minute of dealing.",
         "notes": ""
@@ -674,7 +674,7 @@
     "kc404f7a085e": {
         "key": "kc404f7a085e",
         "name": "Take-Backsies",
-        "icon": "\u21a9\ufe0f",
+        "icon": "↩️",
         "tier": "common",
         "desc": "Use undo for the first time.",
         "notes": ""
@@ -682,7 +682,7 @@
     "kd26b3dda57f": {
         "key": "kd26b3dda57f",
         "name": "The Room Where it Happens",
-        "icon": "\ud83d\udc4f",
+        "icon": "👏",
         "tier": "common",
         "desc": "Witness a neighbor win their game.",
         "notes": ""
@@ -690,7 +690,7 @@
     "k2ce7615344f": {
         "key": "k2ce7615344f",
         "name": "The Moment",
-        "icon": "\ud83c\udf87",
+        "icon": "🎇",
         "tier": "epic",
         "desc": "Be there when total wins cross a multiple of 5,000.",
         "notes": ""
@@ -698,7 +698,7 @@
     "k6200259c2f2": {
         "key": "k6200259c2f2",
         "name": "The Grass is Always Greener",
-        "icon": "\ud83d\udc8e",
+        "icon": "💎",
         "tier": "uncommon",
         "desc": "Witness a win with zero undos and zero misclicks.",
         "notes": ""
@@ -706,7 +706,7 @@
     "ka72ec2710b9": {
         "key": "ka72ec2710b9",
         "name": "Flood Tide",
-        "icon": "\u2614",
+        "icon": "☔",
         "tier": "rare",
         "desc": "Witness 25 wins land on the counter in one sitting.",
         "notes": ""
@@ -714,7 +714,7 @@
     "ka5f53cd2680": {
         "key": "ka5f53cd2680",
         "name": "Flurry",
-        "icon": "\ud83c\udf00",
+        "icon": "🌀",
         "tier": "uncommon",
         "desc": "Send 10 cards home or stack 10 cards within five seconds.",
         "notes": ""
@@ -722,7 +722,7 @@
     "k9cedc06ce29": {
         "key": "k9cedc06ce29",
         "name": "Master Mason",
-        "icon": "\u2692\ufe0f",
+        "icon": "⚒️",
         "tier": "uncommon",
         "desc": "Send 1,000 cards home to the foundations.",
         "notes": ""
@@ -730,7 +730,7 @@
     "ke2330e857a4": {
         "key": "ke2330e857a4",
         "name": "Basement Builder",
-        "icon": "\ud83c\udfd7\ufe0f",
+        "icon": "🏗️",
         "tier": "epic",
         "desc": "Send 5,000 cards home to the foundations.",
         "notes": ""
@@ -738,7 +738,7 @@
     "k54fbbfa1ec7": {
         "key": "k54fbbfa1ec7",
         "name": "Fresh Deal",
-        "icon": "\ud83c\udd95",
+        "icon": "🆕",
         "tier": "common",
         "desc": "Press New Deal on a hand you haven't won.",
         "notes": ""
@@ -746,7 +746,7 @@
     "k68f151622f8": {
         "key": "k68f151622f8",
         "name": "Fresh Snow",
-        "icon": "\u2744\ufe0f",
+        "icon": "❄️",
         "tier": "common",
         "desc": "Deal a puzzle nobody has ever dealt before.",
         "notes": ""
@@ -754,7 +754,7 @@
     "kb2a657c9b93": {
         "key": "kb2a657c9b93",
         "name": "Friends Everywhere",
-        "icon": "\ud83d\udc4b",
+        "icon": "👋",
         "tier": "uncommon",
         "desc": "Get high fives from 10 different players.",
         "notes": ""
@@ -762,7 +762,7 @@
     "k1f458fa41d5": {
         "key": "k1f458fa41d5",
         "name": "The Complete Ark",
-        "icon": "\ud83e\udd92",
+        "icon": "🦒",
         "tier": "epic",
         "desc": "Witness wins from 24 animal emoji.",
         "notes": ""
@@ -770,7 +770,7 @@
     "kc321f7c0708": {
         "key": "kc321f7c0708",
         "name": "The Full Picture",
-        "icon": "\ud83c\udf9e\ufe0f",
+        "icon": "🎞️",
         "tier": "common",
         "desc": "Watch a neighbor reveal all six buried cards in the rightmost column, one after another.",
         "notes": ""
@@ -778,7 +778,7 @@
     "k8ee257e47b6": {
         "key": "k8ee257e47b6",
         "name": "Full Rewind",
-        "icon": "\ud83d\udcfc",
+        "icon": "📼",
         "tier": "rare",
         "desc": "Undo ten times in a row.",
         "notes": ""
@@ -786,7 +786,7 @@
     "kcbe430912f8": {
         "key": "kcbe430912f8",
         "name": "Full Spectrum",
-        "icon": "\ud83c\udf21\ufe0f",
+        "icon": "🌡️",
         "tier": "rare",
         "desc": "Win a deal at every difficulty.",
         "notes": ""
@@ -794,7 +794,7 @@
     "k8d1c6448f5f": {
         "key": "k8d1c6448f5f",
         "name": "Full Week",
-        "icon": "\ud83c\udf1e",
+        "icon": "🌞",
         "tier": "rare",
         "desc": "Win on every day of the week.",
         "notes": ""
@@ -802,7 +802,7 @@
     "kfba70cca5ac": {
         "key": "kfba70cca5ac",
         "name": "Gallery",
-        "icon": "\ud83c\udfa8",
+        "icon": "🎨",
         "tier": "rare",
         "desc": "Unlock 150 achievements.",
         "notes": ""
@@ -810,7 +810,7 @@
     "ke6d1e507c14": {
         "key": "ke6d1e507c14",
         "name": "Game Player",
-        "icon": "\ud83d\udeaa",
+        "icon": "🚪",
         "tier": "common",
         "desc": "Close the achievements panel.",
         "notes": ""
@@ -818,7 +818,7 @@
     "k2ffb4871a95": {
         "key": "k2ffb4871a95",
         "name": "Gentle Start",
-        "icon": "\ud83c\udf31",
+        "icon": "🌱",
         "tier": "common",
         "desc": "Win five different one-star deals.",
         "notes": ""
@@ -826,7 +826,7 @@
     "kb8432517f70": {
         "key": "kb8432517f70",
         "name": "Ghost Race",
-        "icon": "\ud83d\udc7b",
+        "icon": "👻",
         "tier": "common",
         "desc": "Beat your own time on a deal you've won before.",
         "notes": ""
@@ -834,7 +834,7 @@
     "kc8efaf1cb27": {
         "key": "kc8efaf1cb27",
         "name": "Gimme Five",
-        "icon": "\ud83e\udd1a",
+        "icon": "🤚",
         "tier": "common",
         "desc": "Get your first high five.",
         "notes": ""
@@ -842,7 +842,7 @@
     "k53142c7e3bc": {
         "key": "k53142c7e3bc",
         "name": "Globetrotter",
-        "icon": "\ud83e\uddf3",
+        "icon": "🧳",
         "tier": "uncommon",
         "desc": "Deal 50 different deals.",
         "notes": ""
@@ -850,7 +850,7 @@
     "k06513ab285f": {
         "key": "k06513ab285f",
         "name": "Glutton for Punishment",
-        "icon": "\ud83e\udd4a",
+        "icon": "🥊",
         "tier": "rare",
         "desc": "Abandon 25 deals.",
         "notes": ""
@@ -858,7 +858,7 @@
     "k26f0e776c8c": {
         "key": "k26f0e776c8c",
         "name": "Fibonacci",
-        "icon": "\ud83d\udc1a",
+        "icon": "🐚",
         "tier": "rare",
         "desc": "Win in exactly 144 or 233 moves.",
         "notes": ""
@@ -866,7 +866,7 @@
     "k863f14b7297": {
         "key": "k863f14b7297",
         "name": "Grand Tour",
-        "icon": "\ud83d\udeb4",
+        "icon": "🚴",
         "tier": "epic",
         "desc": "Win at every difficulty in a single day.",
         "notes": ""
@@ -874,7 +874,7 @@
     "ke5d5763533b": {
         "key": "ke5d5763533b",
         "name": "Great Minds",
-        "icon": "\ud83e\udde0",
+        "icon": "🧠",
         "tier": "rare",
         "desc": "Give up on a deal you witnessed a neighbor give up on.",
         "notes": ""
@@ -882,7 +882,7 @@
     "k5912c50be80": {
         "key": "k5912c50be80",
         "name": "It's Hard Out There",
-        "icon": "\ud83d\udd4a\ufe0f",
+        "icon": "🕊️",
         "tier": "uncommon",
         "desc": "Witness ten games end without a win.",
         "notes": ""
@@ -890,7 +890,7 @@
     "k8e08f0ad395": {
         "key": "k8e08f0ad395",
         "name": "Group Project",
-        "icon": "\ud83d\ude4c",
+        "icon": "🙌",
         "tier": "rare",
         "desc": "You and both neighbors all past twenty cards home at the same time.",
         "notes": ""
@@ -898,7 +898,7 @@
     "kf554a3af6e3": {
         "key": "kf554a3af6e3",
         "name": "Halfway Club",
-        "icon": "\ud83c\udf13",
+        "icon": "🌓",
         "tier": "rare",
         "desc": "Sit at exactly 26 cards while a neighbor also is.",
         "notes": ""
@@ -906,7 +906,7 @@
     "k923625ab898": {
         "key": "k923625ab898",
         "name": "Hands On",
-        "icon": "\ud83e\udd32",
+        "icon": "🤲",
         "tier": "common",
         "desc": "Win without touching Auto Complete.",
         "notes": ""
@@ -914,7 +914,7 @@
     "kc6dcd7dba89": {
         "key": "kc6dcd7dba89",
         "name": "Coooooooooool",
-        "icon": "\ud83d\ude2c",
+        "icon": "😬",
         "tier": "rare",
         "desc": "Witness a neighbor make 90 misclicks in one game.",
         "notes": ""
@@ -922,7 +922,7 @@
     "ka623f7fc47f": {
         "key": "ka623f7fc47f",
         "name": "The Hard Way",
-        "icon": "\ud83e\uddd7",
+        "icon": "🧗",
         "tier": "rare",
         "desc": "Win four different five-star deals.",
         "notes": ""
@@ -930,7 +930,7 @@
     "kbbc3b7ff0d4": {
         "key": "kbbc3b7ff0d4",
         "name": "Harvest Festival",
-        "icon": "\ud83c\udf3d",
+        "icon": "🌽",
         "tier": "uncommon",
         "desc": "You and both neighbors complete 31 full suits in one sitting.",
         "notes": ""
@@ -938,7 +938,7 @@
     "kad4850219dd": {
         "key": "kad4850219dd",
         "name": "Hat Trick",
-        "icon": "\ud83c\udfa9",
+        "icon": "🎩",
         "tier": "uncommon",
         "desc": "Win three deals in a row.",
         "notes": ""
@@ -946,7 +946,7 @@
     "k8dcc0cc2113": {
         "key": "k8dcc0cc2113",
         "name": "Heater",
-        "icon": "\ud83d\udd25",
+        "icon": "🔥",
         "tier": "rare",
         "desc": "Win five deals in a row.",
         "notes": ""
@@ -954,7 +954,7 @@
     "k0a712434bb9": {
         "key": "k0a712434bb9",
         "name": "Hello, Me",
-        "icon": "\ud83d\ude43",
+        "icon": "🙃",
         "tier": "common",
         "desc": "Tap your own emoji.",
         "notes": ""
@@ -962,7 +962,7 @@
     "kc7184f06b90": {
         "key": "kc7184f06b90",
         "name": "High Rollers",
-        "icon": "\ud83d\udcb0",
+        "icon": "💰",
         "tier": "rare",
         "desc": "Every face-up card in the opening deal is an eight or higher.",
         "notes": ""
@@ -970,7 +970,7 @@
     "kcca48b72807": {
         "key": "kcca48b72807",
         "name": "Hot Table",
-        "icon": "\u2668\ufe0f",
+        "icon": "♨️",
         "tier": "uncommon",
         "desc": "Win at four different difficulties in one sitting.",
         "notes": ""
@@ -978,7 +978,7 @@
     "k8d481dac9eb": {
         "key": "k8d481dac9eb",
         "name": "Hour In",
-        "icon": "\u23f3",
+        "icon": "⏳",
         "tier": "common",
         "desc": "Spend an hour playing, total.",
         "notes": ""
@@ -986,7 +986,7 @@
     "kcdf3b7e99b6": {
         "key": "kcdf3b7e99b6",
         "name": "Houseplant",
-        "icon": "\ud83c\udf3f",
+        "icon": "🌿",
         "tier": "rare",
         "desc": "Sit idle for three hours straight.",
         "notes": ""
@@ -994,7 +994,7 @@
     "k0a4c7d45ba1": {
         "key": "k0a4c7d45ba1",
         "name": "Humbled",
-        "icon": "\ud83d\ude47",
+        "icon": "🙇",
         "tier": "rare",
         "desc": "Give up on a deal you witnessed a neighbor win. It looked so easy...",
         "notes": ""
@@ -1002,15 +1002,15 @@
     "k1e3db06e0fb": {
         "key": "k1e3db06e0fb",
         "name": "Identity Crisis",
-        "icon": "\ud83e\udeaa",
+        "icon": "🪪",
         "tier": "uncommon",
         "desc": "Refresh your emoji five times.",
         "notes": ""
     },
     "ka713e4a3ac4": {
         "key": "ka713e4a3ac4",
-        "name": "If at First\u2026",
-        "icon": "\ud83e\udea8",
+        "name": "If at First…",
+        "icon": "🪨",
         "tier": "rare",
         "desc": "Win after abandoning five deals in a row.",
         "notes": ""
@@ -1018,7 +1018,7 @@
     "k3ac5bf92ced": {
         "key": "k3ac5bf92ced",
         "name": "Immaculate",
-        "icon": "\u2728",
+        "icon": "✨",
         "tier": "uncommon",
         "desc": "Win with zero undos and zero misclicks.",
         "notes": ""
@@ -1026,7 +1026,7 @@
     "kfa361553347": {
         "key": "kfa361553347",
         "name": "Insomniac",
-        "icon": "\ud83d\udecc",
+        "icon": "🛌",
         "tier": "common",
         "desc": "Deal a game between two and four in the morning.",
         "notes": ""
@@ -1034,7 +1034,7 @@
     "kc9998dc2c1d": {
         "key": "kc9998dc2c1d",
         "name": "Inspiration",
-        "icon": "\ud83d\udca1",
+        "icon": "💡",
         "tier": "common",
         "desc": "A neighbor deals a new game within ten seconds of watching you win.",
         "notes": ""
@@ -1042,7 +1042,7 @@
     "kb5fa62caf95": {
         "key": "kb5fa62caf95",
         "name": "So It WAS Possible",
-        "icon": "\ud83e\udd2f",
+        "icon": "🤯",
         "tier": "rare",
         "desc": "Witness a win on a deal you gave up on.",
         "notes": ""
@@ -1050,7 +1050,7 @@
     "k7941ce5a927": {
         "key": "k7941ce5a927",
         "name": "Just Browsing",
-        "icon": "\ud83d\udecd\ufe0f",
+        "icon": "🛍️",
         "tier": "common",
         "desc": "Flip through the entire deck without playing a single card.",
         "notes": ""
@@ -1058,7 +1058,7 @@
     "kecfda56dd26": {
         "key": "kecfda56dd26",
         "name": "Autobots",
-        "icon": "\ud83e\udd16",
+        "icon": "🤖",
         "tier": "rare",
         "desc": "You and both neighbors send eighteen cards home within one second.",
         "notes": ""
@@ -1066,7 +1066,7 @@
     "kbf9cc5dad75": {
         "key": "kbf9cc5dad75",
         "name": "Meet and Greet",
-        "icon": "\ud83e\udef6",
+        "icon": "🫶",
         "tier": "uncommon",
         "desc": "Reach 50 different emoji as neighbors.",
         "notes": ""
@@ -1074,7 +1074,7 @@
     "k7a55ed519d4": {
         "key": "k7a55ed519d4",
         "name": "Kingmaker",
-        "icon": "\ud83e\udd34",
+        "icon": "🤴",
         "tier": "uncommon",
         "desc": "Move 50 Kings into empty columns.",
         "notes": ""
@@ -1082,7 +1082,7 @@
     "kfefab5f7012": {
         "key": "kfefab5f7012",
         "name": "Kingslayer",
-        "icon": "\ud83e\uddb9",
+        "icon": "🦹",
         "tier": "common",
         "desc": "Move a King into an empty column, then take it back with an undo.",
         "notes": ""
@@ -1090,7 +1090,7 @@
     "k6af7c6ac774": {
         "key": "k6af7c6ac774",
         "name": "Knock Knock",
-        "icon": "\ud83d\udc23",
+        "icon": "🐣",
         "tier": "common",
         "desc": "Tap the empty felt ten times.",
         "notes": ""
@@ -1098,7 +1098,7 @@
     "kc0c506faae1": {
         "key": "kc0c506faae1",
         "name": "Leave 'Em Hanging",
-        "icon": "\ud83e\ude9d",
+        "icon": "🪝",
         "tier": "uncommon",
         "desc": "Let 10 high fives go unanswered.",
         "notes": ""
@@ -1106,7 +1106,7 @@
     "k3709ff40b0e": {
         "key": "k3709ff40b0e",
         "name": "Legend Sighting",
-        "icon": "\ud83d\udc09",
+        "icon": "🐉",
         "tier": "epic",
         "desc": "Have a neighbor with 500 wins.",
         "notes": ""
@@ -1114,7 +1114,7 @@
     "k7700a76398a": {
         "key": "k7700a76398a",
         "name": "Long Lunch",
-        "icon": "\ud83e\udd6a",
+        "icon": "🥪",
         "tier": "rare",
         "desc": "Disappear for half an hour mid-game, then come back and win it.",
         "notes": ""
@@ -1122,7 +1122,7 @@
     "k8181d557639": {
         "key": "k8181d557639",
         "name": "Lost Track of Time",
-        "icon": "\ud83e\udee0",
+        "icon": "🫠",
         "tier": "rare",
         "desc": "Play for two hours in one sitting.",
         "notes": ""
@@ -1130,7 +1130,7 @@
     "k255093a54b7": {
         "key": "k255093a54b7",
         "name": "All the Ones",
-        "icon": "\ud83c\udf8b",
+        "icon": "🎋",
         "tier": "rare",
         "desc": "Win in exactly 111 moves.",
         "notes": ""
@@ -1138,7 +1138,7 @@
     "kdc22096ced1": {
         "key": "kdc22096ced1",
         "name": "Lunch Break",
-        "icon": "\ud83c\udf71",
+        "icon": "🍱",
         "tier": "common",
         "desc": "Win between noon and one.",
         "notes": ""
@@ -1146,7 +1146,7 @@
     "k04e4a13bf00": {
         "key": "k04e4a13bf00",
         "name": "Lurker",
-        "icon": "\ud83d\udc41\ufe0f\u200d\ud83d\udde8\ufe0f",
+        "icon": "👁️‍🗨️",
         "tier": "uncommon",
         "desc": "Witness five wins without touching a card.",
         "notes": ""
@@ -1154,7 +1154,7 @@
     "kaffbe396fcd": {
         "key": "kaffbe396fcd",
         "name": "Marathon Session",
-        "icon": "\ud83c\udfc3",
+        "icon": "🏃",
         "tier": "epic",
         "desc": "Win ten games in one sitting.",
         "notes": ""
@@ -1162,7 +1162,7 @@
     "k5b3ceaac9d6": {
         "key": "k5b3ceaac9d6",
         "name": "Menagerie",
-        "icon": "\ud83e\udd81",
+        "icon": "🦁",
         "tier": "uncommon",
         "desc": "Witness wins from five different animal emoji.",
         "notes": ""
@@ -1170,7 +1170,7 @@
     "k31b42d9a9e3": {
         "key": "k31b42d9a9e3",
         "name": "Mentee",
-        "icon": "\ud83e\uddd9",
+        "icon": "🧙",
         "tier": "rare",
         "desc": "Witness a win by a neighbor with 50 or more wins.",
         "notes": ""
@@ -1178,7 +1178,7 @@
     "k63b4d0719e5": {
         "key": "k63b4d0719e5",
         "name": "Meter's Running",
-        "icon": "\ud83d\ude95",
+        "icon": "🚕",
         "tier": "common",
         "desc": "Misclick enough times that it counts as a move.",
         "notes": ""
@@ -1186,7 +1186,7 @@
     "k4c5c6402d28": {
         "key": "k4c5c6402d28",
         "name": "Metronome",
-        "icon": "\ud83e\udd41",
+        "icon": "🥁",
         "tier": "rare",
         "desc": "Make twenty moves in a row, each within half a second of the same pace.",
         "notes": ""
@@ -1194,7 +1194,7 @@
     "k0974651ac97": {
         "key": "k0974651ac97",
         "name": "Busy Night",
-        "icon": "\ud83c\udf07",
+        "icon": "🌇",
         "tier": "rare",
         "desc": "Be online with 500 other players.",
         "notes": ""
@@ -1202,7 +1202,7 @@
     "k78aed9ab56c": {
         "key": "k78aed9ab56c",
         "name": "Minimalist",
-        "icon": "\ud83e\udeb6",
+        "icon": "🪶",
         "tier": "uncommon",
         "desc": "Win in 100 moves or fewer.",
         "notes": ""
@@ -1210,7 +1210,7 @@
     "k53fc0d1c49a": {
         "key": "k53fc0d1c49a",
         "name": "Mirror Match",
-        "icon": "\ud83d\udd2e",
+        "icon": "🔮",
         "tier": "rare",
         "desc": "Have a neighbor with exactly your achievement count. (Ten or more.)",
         "notes": ""
@@ -1218,7 +1218,7 @@
     "kd75d072b915": {
         "key": "kd75d072b915",
         "name": "Mirror Ranks",
-        "icon": "\ud83c\udf8f",
+        "icon": "🎏",
         "tier": "uncommon",
         "desc": "The seven top tableau cards' ranks read the same left to right as right to left.",
         "notes": ""
@@ -1226,7 +1226,7 @@
     "kefaf05bb6de": {
         "key": "kefaf05bb6de",
         "name": "Time Emit",
-        "icon": "\ud83e\udea9",
+        "icon": "🪩",
         "tier": "rare",
         "desc": "Win when the clock reads a palindrome.",
         "notes": ""
@@ -1234,7 +1234,7 @@
     "kd7132a798d6": {
         "key": "kd7132a798d6",
         "name": "Slippery Fingers",
-        "icon": "\ud83e\udef3",
+        "icon": "🫳",
         "tier": "uncommon",
         "desc": "Misclick 100 times.",
         "notes": ""
@@ -1242,7 +1242,7 @@
     "k2a16f1aea4c": {
         "key": "k2a16f1aea4c",
         "name": "Touchy",
-        "icon": "\ud83e\udde4",
+        "icon": "🧤",
         "tier": "rare",
         "desc": "Misclick 500 times.",
         "notes": ""
@@ -1250,7 +1250,7 @@
     "k60cb2ddc5e3": {
         "key": "k60cb2ddc5e3",
         "name": "Monkey See",
-        "icon": "\ud83d\udc12",
+        "icon": "🐒",
         "tier": "common",
         "desc": "A neighbor who watched you win finishes within three seconds of your win.",
         "notes": ""
@@ -1258,7 +1258,7 @@
     "kac149a11c44": {
         "key": "kac149a11c44",
         "name": "Monochrome",
-        "icon": "\ud83d\udda4",
+        "icon": "🖤",
         "tier": "rare",
         "desc": "All seven face-up cards in the opening deal are the same color.",
         "notes": ""
@@ -1266,7 +1266,7 @@
     "k5d1653b5279": {
         "key": "k5d1653b5279",
         "name": "A Thousand Moves",
-        "icon": "\ud83d\udd22",
+        "icon": "🔢",
         "tier": "uncommon",
         "desc": "Make 1,000 lifetime moves.",
         "notes": ""
@@ -1274,7 +1274,7 @@
     "k62e4c924b43": {
         "key": "k62e4c924b43",
         "name": "Moving Up",
-        "icon": "\ud83c\udf88",
+        "icon": "🎈",
         "tier": "uncommon",
         "desc": "Unlock ten fancy achievements.",
         "notes": ""
@@ -1282,7 +1282,7 @@
     "k98575f5ce16": {
         "key": "k98575f5ce16",
         "name": "Mulligan",
-        "icon": "\u26f3",
+        "icon": "⛳",
         "tier": "common",
         "desc": "Restart a deal from the top.",
         "notes": ""
@@ -1290,7 +1290,7 @@
     "k3f04d4d1d71": {
         "key": "k3f04d4d1d71",
         "name": "Curator",
-        "icon": "\ud83d\uddbc\ufe0f",
+        "icon": "🖼️",
         "tier": "uncommon",
         "desc": "Unlock 100 achievements.",
         "notes": ""
@@ -1298,7 +1298,7 @@
     "ka82f23ecce9": {
         "key": "ka82f23ecce9",
         "name": "Mutual Admiration",
-        "icon": "\ud83d\udc9e",
+        "icon": "💞",
         "tier": "rare",
         "desc": "You and another player high-five each other's wins on the same day.",
         "notes": ""
@@ -1306,7 +1306,7 @@
     "k5b08d01c78d": {
         "key": "k5b08d01c78d",
         "name": "Back From the Dead",
-        "icon": "\ud83e\udddf",
+        "icon": "🧟",
         "tier": "rare",
         "desc": "Witness a win that took twenty undos.",
         "notes": ""
@@ -1314,7 +1314,7 @@
     "kf8b62809aa4": {
         "key": "kf8b62809aa4",
         "name": "Nice",
-        "icon": "\ud83d\ude0e",
+        "icon": "😎",
         "tier": "rare",
         "desc": "Win 69 times.",
         "notes": ""
@@ -1322,7 +1322,7 @@
     "k25d76dc82db": {
         "key": "k25d76dc82db",
         "name": "Night Owl",
-        "icon": "\ud83c\udf03",
+        "icon": "🌃",
         "tier": "uncommon",
         "desc": "Win between midnight and five in the morning.",
         "notes": ""
@@ -1330,7 +1330,7 @@
     "k7ebe984964b": {
         "key": "k7ebe984964b",
         "name": "Night Shift",
-        "icon": "\ud83c\udf18",
+        "icon": "🌘",
         "tier": "rare",
         "desc": "Play alongside a neighbor between midnight and five a.m.",
         "notes": ""
@@ -1338,7 +1338,7 @@
     "k7e9fc658d9d": {
         "key": "k7e9fc658d9d",
         "name": "Noah's Ark",
-        "icon": "\u26f5",
+        "icon": "⛵",
         "tier": "epic",
         "desc": "Share the table with all 24 animals, lifetime.",
         "notes": ""
@@ -1346,7 +1346,7 @@
     "k364f055131b": {
         "key": "k364f055131b",
         "name": "No Regrets",
-        "icon": "\ud83e\uddd8",
+        "icon": "🧘",
         "tier": "uncommon",
         "desc": "Win without undoing a single move.",
         "notes": ""
@@ -1354,7 +1354,7 @@
     "k0a74794bb2f": {
         "key": "k0a74794bb2f",
         "name": "Nothing Doing",
-        "icon": "\ud83e\udeb9",
+        "icon": "🪹",
         "tier": "uncommon",
         "desc": "Win a deal that starts with no legal tableau moves or foundation plays.",
         "notes": ""
@@ -1362,7 +1362,7 @@
     "kd4c31e0a7fe": {
         "key": "kd4c31e0a7fe",
         "name": "Nothing Up My Sleeve",
-        "icon": "\ud83e\ude84",
+        "icon": "🪄",
         "tier": "uncommon",
         "desc": "Empty the stock AND the waste before the game is won.",
         "notes": ""
@@ -1370,7 +1370,7 @@
     "k824b3eddb77": {
         "key": "k824b3eddb77",
         "name": "Number One Fan",
-        "icon": "\ud83e\udd70",
+        "icon": "🥰",
         "tier": "uncommon",
         "desc": "Witness the same emoji win at all five difficulties.",
         "notes": ""
@@ -1378,7 +1378,7 @@
     "k2c79c570adc": {
         "key": "k2c79c570adc",
         "name": "Off the Rack",
-        "icon": "\ud83e\uddf5",
+        "icon": "🧵",
         "tier": "common",
         "desc": "Complete 18 full suits.",
         "notes": ""
@@ -1386,7 +1386,7 @@
     "k16039026a9f": {
         "key": "k16039026a9f",
         "name": "Off to the Races",
-        "icon": "\ud83c\udfc7",
+        "icon": "🏇",
         "tier": "common",
         "desc": "Send your first five card moves straight to the foundations.",
         "notes": ""
@@ -1394,7 +1394,7 @@
     "k8b293dc5e5e": {
         "key": "k8b293dc5e5e",
         "name": "Old Friends",
-        "icon": "\ud83c\udf7b",
+        "icon": "🍻",
         "tier": "rare",
         "desc": "Witness wins by the same emoji on five different days.",
         "notes": ""
@@ -1402,7 +1402,7 @@
     "kaf7ce30f764": {
         "key": "kaf7ce30f764",
         "name": "One Pass",
-        "icon": "\u27a1\ufe0f",
+        "icon": "➡️",
         "tier": "uncommon",
         "desc": "Win without ever recycling the stock.",
         "notes": ""
@@ -1410,7 +1410,7 @@
     "k370f8872024": {
         "key": "k370f8872024",
         "name": "As Easy As",
-        "icon": "\ud83d\udd24",
+        "icon": "🔤",
         "tier": "rare",
         "desc": "Win in exactly 123 moves.",
         "notes": ""
@@ -1418,7 +1418,7 @@
     "k9ad08eb67d4": {
         "key": "k9ad08eb67d4",
         "name": "On the Nose",
-        "icon": "\ud83d\udc43",
+        "icon": "👃",
         "tier": "epic",
         "desc": "Win in exactly 100 moves.",
         "notes": ""
@@ -1426,7 +1426,7 @@
     "kf784297e423": {
         "key": "kf784297e423",
         "name": "Overtime",
-        "icon": "\ud83d\udd60",
+        "icon": "🕠",
         "tier": "uncommon",
         "desc": "Win a game more than half an hour after dealing it.",
         "notes": ""
@@ -1434,7 +1434,7 @@
     "k015c625f143": {
         "key": "k015c625f143",
         "name": "Owning the Table",
-        "icon": "\ud83c\udff0",
+        "icon": "🏰",
         "tier": "rare",
         "desc": "Win seven games in one sitting.",
         "notes": ""
@@ -1442,7 +1442,7 @@
     "kd7e15d5cfc1": {
         "key": "kd7e15d5cfc1",
         "name": "Pace Setter",
-        "icon": "\ud83d\ude80",
+        "icon": "🚀",
         "tier": "uncommon",
         "desc": "Lead both neighbors by fifteen foundation cards.",
         "notes": ""
@@ -1450,7 +1450,7 @@
     "k41f9590758c": {
         "key": "k41f9590758c",
         "name": "Pair",
-        "icon": "\ud83e\udd62",
+        "icon": "🥢",
         "tier": "common",
         "desc": "Draw the Seven of Hearts and Seven of Spades together.",
         "notes": ""
@@ -1458,7 +1458,7 @@
     "k36f7a45636c": {
         "key": "k36f7a45636c",
         "name": "Taco Cat",
-        "icon": "\ud83d\ude3d",
+        "icon": "😽",
         "tier": "rare",
         "desc": "Win in exactly 121 moves.",
         "notes": ""
@@ -1466,7 +1466,7 @@
     "kfec61f85f8d": {
         "key": "kfec61f85f8d",
         "name": "Peeling Back",
-        "icon": "\ud83c\udf12",
+        "icon": "🌒",
         "tier": "uncommon",
         "desc": "Reveal all six buried cards in the rightmost column on consecutive card moves.",
         "notes": ""
@@ -1474,7 +1474,7 @@
     "kf84f4cff482": {
         "key": "kf84f4cff482",
         "name": "People Watching",
-        "icon": "\ud83d\udc40",
+        "icon": "👀",
         "tier": "uncommon",
         "desc": "Watch ten different neighbors' boards in one sitting.",
         "notes": ""
@@ -1482,7 +1482,7 @@
     "k13990637c18": {
         "key": "k13990637c18",
         "name": "Bad Luck",
-        "icon": "\ud83d\ude05",
+        "icon": "😅",
         "tier": "rare",
         "desc": "Misclick thirteen times consecutively.",
         "notes": ""
@@ -1490,7 +1490,7 @@
     "k5c59a68c0e7": {
         "key": "k5c59a68c0e7",
         "name": "Perfect Storm",
-        "icon": "\ud83c\udf2a\ufe0f",
+        "icon": "🌪️",
         "tier": "epic",
         "desc": "Win a five-star deal without a single undo.",
         "notes": ""
@@ -1498,7 +1498,7 @@
     "kb8046b87347": {
         "key": "kb8046b87347",
         "name": "Persistence Pays",
-        "icon": "\ud83d\udc22",
+        "icon": "🐢",
         "tier": "uncommon",
         "desc": "Win despite fifteen misclicks.",
         "notes": ""
@@ -1506,7 +1506,7 @@
     "k46ab70728e0": {
         "key": "k46ab70728e0",
         "name": "Personal Best",
-        "icon": "\ud83c\udfbd",
+        "icon": "🎽",
         "tier": "uncommon",
         "desc": "Beat your fastest win. (Once you have five wins.)",
         "notes": ""
@@ -1514,7 +1514,7 @@
     "k9511b840381": {
         "key": "k9511b840381",
         "name": "Prime Time",
-        "icon": "\ud83d\udcfa",
+        "icon": "📺",
         "tier": "common",
         "desc": "Win between eight and ten in the evening.",
         "notes": ""
@@ -1522,7 +1522,7 @@
     "k49e72ac5ea3": {
         "key": "k49e72ac5ea3",
         "name": "Private Property",
-        "icon": "\ud83d\udea7",
+        "icon": "🚧",
         "tier": "common",
         "desc": "Tap a card on someone else's board.",
         "notes": ""
@@ -1530,7 +1530,7 @@
     "ke007d682681": {
         "key": "ke007d682681",
         "name": "Quick Draw",
-        "icon": "\ud83e\udef0",
+        "icon": "🫰",
         "tier": "uncommon",
         "desc": "High-five a win within 2 seconds of seeing it.",
         "notes": ""
@@ -1538,7 +1538,7 @@
     "kf776d382d63": {
         "key": "kf776d382d63",
         "name": "Quiet Room",
-        "icon": "\ud83e\udd2b",
+        "icon": "🤫",
         "tier": "rare",
         "desc": "You and both neighbors go a full minute without moving.",
         "notes": ""
@@ -1546,7 +1546,7 @@
     "ke24e78e8405": {
         "key": "ke24e78e8405",
         "name": "Rage Quit",
-        "icon": "\ud83c\udf0b",
+        "icon": "🌋",
         "tier": "uncommon",
         "desc": "Abandon a game within fifteen seconds of a misclick.",
         "notes": ""
@@ -1554,7 +1554,7 @@
     "k166e3ac52ef": {
         "key": "k166e3ac52ef",
         "name": "Rare Breed",
-        "icon": "\ud83e\udd84",
+        "icon": "🦄",
         "tier": "rare",
         "desc": "Unlock ten rare achievements.",
         "notes": ""
@@ -1562,7 +1562,7 @@
     "k4144b5144a4": {
         "key": "k4144b5144a4",
         "name": "Rebound",
-        "icon": "\ud83c\udfc0",
+        "icon": "🏀",
         "tier": "uncommon",
         "desc": "Win the deal right after abandoning one.",
         "notes": ""
@@ -1570,7 +1570,7 @@
     "kaf4de62ebac": {
         "key": "kaf4de62ebac",
         "name": "Record Holder",
-        "icon": "\ud83d\udc51",
+        "icon": "👑",
         "tier": "epic",
         "desc": "Hold the speed record on five deals at once.",
         "notes": ""
@@ -1578,7 +1578,7 @@
     "ke1776d1c4f0": {
         "key": "ke1776d1c4f0",
         "name": "Recycling Program",
-        "icon": "\ud83d\udeae",
+        "icon": "🚮",
         "tier": "uncommon",
         "desc": "Recycle the stock 100 times.",
         "notes": ""
@@ -1586,7 +1586,7 @@
     "k890051383a0": {
         "key": "k890051383a0",
         "name": "Redemption Arc",
-        "icon": "\ud83c\udf08",
+        "icon": "🌈",
         "tier": "rare",
         "desc": "Win a deal you witnessed a neighbor give up on.",
         "notes": ""
@@ -1594,7 +1594,7 @@
     "k25b6557623a": {
         "key": "k25b6557623a",
         "name": "Red Hot",
-        "icon": "\ud83c\udf36\ufe0f",
+        "icon": "🌶️",
         "tier": "uncommon",
         "desc": "All seven top tableau cards are red.",
         "notes": ""
@@ -1602,7 +1602,7 @@
     "k3ed8e69ebdc": {
         "key": "k3ed8e69ebdc",
         "name": "Refined",
-        "icon": "\ud83d\udcc9",
+        "icon": "📉",
         "tier": "common",
         "desc": "Win a deal in fewer moves than your last win on it.",
         "notes": ""
@@ -1610,7 +1610,7 @@
     "k2906d82524f": {
         "key": "k2906d82524f",
         "name": "Regular Table",
-        "icon": "\ud83c\udf7d\ufe0f",
+        "icon": "🍽️",
         "tier": "rare",
         "desc": "Have the same emoji as a neighbor on three different days.",
         "notes": ""
@@ -1618,7 +1618,7 @@
     "kaad9cadc324": {
         "key": "kaad9cadc324",
         "name": "Repo Man",
-        "icon": "\ud83e\ude83",
+        "icon": "🪃",
         "tier": "uncommon",
         "desc": "Take cards back off the foundations five times in one game.",
         "notes": ""
@@ -1626,7 +1626,7 @@
     "k9c46916bc68": {
         "key": "k9c46916bc68",
         "name": "Rerun",
-        "icon": "\ud83d\udcfd\ufe0f",
+        "icon": "📽️",
         "tier": "rare",
         "desc": "Witness a win on a deal you've already seen a win on.",
         "notes": ""
@@ -1634,7 +1634,7 @@
     "k54c774bc544": {
         "key": "k54c774bc544",
         "name": "Deep Dig",
-        "icon": "\ud83d\udd73\ufe0f",
+        "icon": "🕳️",
         "tier": "rare",
         "desc": "Flip 1,000 face-down cards.",
         "notes": ""
@@ -1642,7 +1642,7 @@
     "ke45573f277c": {
         "key": "ke45573f277c",
         "name": "High Tide",
-        "icon": "\ud83d\udcc8",
+        "icon": "📈",
         "tier": "rare",
         "desc": "Witness 100 wins hit the counter in one sitting.",
         "notes": ""
@@ -1650,7 +1650,7 @@
     "k9a2b14aa85c": {
         "key": "k9a2b14aa85c",
         "name": "Rising Tide",
-        "icon": "\ud83d\udef3\ufe0f",
+        "icon": "🛳️",
         "tier": "uncommon",
         "desc": "You and both neighbors send a card home within the same second.",
         "notes": ""
@@ -1658,7 +1658,7 @@
     "ka2a6b07eea7": {
         "key": "ka2a6b07eea7",
         "name": "Role Model",
-        "icon": "\ud83e\uddd1\u200d\ud83c\udfeb",
+        "icon": "🧑‍🏫",
         "tier": "rare",
         "desc": "A neighbor earns their very first win after watching one of yours.",
         "notes": ""
@@ -1666,7 +1666,7 @@
     "kab9460032d5": {
         "key": "kab9460032d5",
         "name": "Rough Night at the Table",
-        "icon": "\ud83c\udf27\ufe0f",
+        "icon": "🌧️",
         "tier": "uncommon",
         "desc": "Abandon three games in one sitting.",
         "notes": ""
@@ -1674,7 +1674,7 @@
     "k5e3a1e8e810": {
         "key": "k5e3a1e8e810",
         "name": "Safari",
-        "icon": "\ud83e\udd93",
+        "icon": "🦓",
         "tier": "uncommon",
         "desc": "Witness wins from ten different animal emoji.",
         "notes": ""
@@ -1682,7 +1682,7 @@
     "kde1a696fabb": {
         "key": "kde1a696fabb",
         "name": "Scraping the Barrel",
-        "icon": "\ud83e\uded9",
+        "icon": "🫙",
         "tier": "uncommon",
         "desc": "Tap the stock while both the stock and waste are empty.",
         "notes": ""
@@ -1690,7 +1690,7 @@
     "kafb0e31bbf9": {
         "key": "kafb0e31bbf9",
         "name": "Second Draft",
-        "icon": "\u270d\ufe0f",
+        "icon": "✍️",
         "tier": "rare",
         "desc": "Undo ten moves in a row, then go on to win the game.",
         "notes": ""
@@ -1698,7 +1698,7 @@
     "kb44b45ecc81": {
         "key": "kb44b45ecc81",
         "name": "Second Sight",
-        "icon": "\ud83e\uddff",
+        "icon": "🧿",
         "tier": "uncommon",
         "desc": "Flip a face-down card straight onto the foundations five times in one game.",
         "notes": ""
@@ -1706,7 +1706,7 @@
     "kb2d0f24ea0e": {
         "key": "kb2d0f24ea0e",
         "name": "Second Thoughts",
-        "icon": "\ud83e\udd14",
+        "icon": "🤔",
         "tier": "uncommon",
         "desc": "Reach 100 lifetime undos.",
         "notes": ""
@@ -1714,7 +1714,7 @@
     "k8d9e495e4a9": {
         "key": "k8d9e495e4a9",
         "name": "Secret Handshake",
-        "icon": "\ud83e\udd1c",
+        "icon": "🤜",
         "tier": "rare",
         "desc": "Tap the four foundation spots left to right, then right to left.",
         "notes": ""
@@ -1722,7 +1722,7 @@
     "ka1bbc9cd050": {
         "key": "ka1bbc9cd050",
         "name": "Seeing Red",
-        "icon": "\ud83d\udd34",
+        "icon": "🔴",
         "tier": "common",
         "desc": "Finish both red suits before either black suit.",
         "notes": ""
@@ -1730,7 +1730,7 @@
     "kc3e2a9555c5": {
         "key": "kc3e2a9555c5",
         "name": "Can't Stop",
-        "icon": "\ud83c\udfa2",
+        "icon": "🎢",
         "tier": "rare",
         "desc": "Play fifteen deals in one sitting.",
         "notes": ""
@@ -1738,7 +1738,7 @@
     "kbc38de11df1": {
         "key": "kbc38de11df1",
         "name": "Weekly",
-        "icon": "\ud83d\udcc5",
+        "icon": "📅",
         "tier": "rare",
         "desc": "Play seven days in a row.",
         "notes": ""
@@ -1746,7 +1746,7 @@
     "kf57925785cf": {
         "key": "kf57925785cf",
         "name": "Shared Pain",
-        "icon": "\ud83e\udd15",
+        "icon": "🤕",
         "tier": "rare",
         "desc": "Misclick a card within the same second as a neighbor.",
         "notes": ""
@@ -1754,7 +1754,7 @@
     "ke2f359cbda1": {
         "key": "ke2f359cbda1",
         "name": "Shift Worker",
-        "icon": "\ud83e\uddba",
+        "icon": "🦺",
         "tier": "rare",
         "desc": "Win in twelve different hours of the day.",
         "notes": ""
@@ -1762,7 +1762,7 @@
     "k34771b1f000": {
         "key": "k34771b1f000",
         "name": "Shoulder to Cry On",
-        "icon": "\ud83e\udec2",
+        "icon": "🫂",
         "tier": "rare",
         "desc": "Witness 50 games end without a win.",
         "notes": ""
@@ -1770,7 +1770,7 @@
     "k9eabeb42e3c": {
         "key": "k9eabeb42e3c",
         "name": "Sixty in Sixty",
-        "icon": "\ud83c\udfb5",
+        "icon": "🎵",
         "tier": "rare",
         "desc": "Make 60 moves in 60 seconds.",
         "notes": ""
@@ -1778,7 +1778,7 @@
     "k155e542c556": {
         "key": "k155e542c556",
         "name": "Skeptic",
-        "icon": "\ud83e\udd28",
+        "icon": "🤨",
         "tier": "common",
         "desc": "Dismiss an achievement.",
         "notes": ""
@@ -1786,7 +1786,7 @@
     "k70db3eae016": {
         "key": "k70db3eae016",
         "name": "Wow",
-        "icon": "\ud83d\udd2d",
+        "icon": "🔭",
         "tier": "uncommon",
         "desc": "Witness a neighbor build a seventeen-card tableau pile.",
         "notes": ""
@@ -1794,7 +1794,7 @@
     "k1ab51f84b01": {
         "key": "k1ab51f84b01",
         "name": "Slow Off the Mark",
-        "icon": "\ud83d\ude34",
+        "icon": "😴",
         "tier": "uncommon",
         "desc": "Witness a neighbor win before you've touched a single card.",
         "notes": ""
@@ -1802,7 +1802,7 @@
     "kd68e354a4f8": {
         "key": "kd68e354a4f8",
         "name": "Snake Eyes",
-        "icon": "\ud83d\udc0d",
+        "icon": "🐍",
         "tier": "uncommon",
         "desc": "Draw the Ace of Clubs and Ace of Diamonds together.",
         "notes": ""
@@ -1810,7 +1810,7 @@
     "k1f4fbc36349": {
         "key": "k1f4fbc36349",
         "name": "Variety Pack",
-        "icon": "\ud83c\udf81",
+        "icon": "🎁",
         "tier": "uncommon",
         "desc": "Win 15 different deals.",
         "notes": ""
@@ -1818,7 +1818,7 @@
     "k409461407da": {
         "key": "k409461407da",
         "name": "Anthologist",
-        "icon": "\ud83d\udcda",
+        "icon": "📚",
         "tier": "rare",
         "desc": "Win 40 different deals.",
         "notes": ""
@@ -1826,7 +1826,7 @@
     "kc45e6189d44": {
         "key": "kc45e6189d44",
         "name": "Librarian",
-        "icon": "\ud83e\udd13",
+        "icon": "🤓",
         "tier": "rare",
         "desc": "Win 80 different deals.",
         "notes": ""
@@ -1834,7 +1834,7 @@
     "k63b5c9207cd": {
         "key": "k63b5c9207cd",
         "name": "Spade Work",
-        "icon": "\ud83d\udde1\ufe0f",
+        "icon": "🗡️",
         "tier": "common",
         "desc": "The Ace of Spades is the first card to reach the foundations.",
         "notes": ""
@@ -1842,7 +1842,7 @@
     "kfa393284448": {
         "key": "kfa393284448",
         "name": "Special Delivery",
-        "icon": "\ud83d\udcec",
+        "icon": "📬",
         "tier": "uncommon",
         "desc": "Play both cards of a single draw within five seconds five times in one game.",
         "notes": ""
@@ -1850,7 +1850,7 @@
     "kc2fa71e8d69": {
         "key": "kc2fa71e8d69",
         "name": "Speed Dating",
-        "icon": "\ud83d\udd7a",
+        "icon": "🕺",
         "tier": "common",
         "desc": "Abandon a deal within ten seconds.",
         "notes": ""
@@ -1858,7 +1858,7 @@
     "kb4796865de7": {
         "key": "kb4796865de7",
         "name": "Speed Check",
-        "icon": "\ud83d\udce1",
+        "icon": "📡",
         "tier": "rare",
         "desc": "Witness a win in under 90 seconds.",
         "notes": ""
@@ -1866,7 +1866,7 @@
     "k5678c2c1c37": {
         "key": "k5678c2c1c37",
         "name": "Speedrun",
-        "icon": "\u23f1\ufe0f",
+        "icon": "⏱️",
         "tier": "uncommon",
         "desc": "Win in under two minutes.",
         "notes": ""
@@ -1874,7 +1874,7 @@
     "k1e45cc16d5a": {
         "key": "k1e45cc16d5a",
         "name": "Spin Cycle",
-        "icon": "\ud83c\udfa0",
+        "icon": "🎠",
         "tier": "uncommon",
         "desc": "Witness a neighbor recycle ten times in one game.",
         "notes": ""
@@ -1882,7 +1882,7 @@
     "k0a0bc882f78": {
         "key": "k0a0bc882f78",
         "name": "Staff Meeting",
-        "icon": "\ud83d\ude18",
+        "icon": "😘",
         "tier": "rare",
         "desc": "Have a member of Puzzmo staff as a neighbor.",
         "notes": ""
@@ -1890,7 +1890,7 @@
     "k7eca6748b55": {
         "key": "k7eca6748b55",
         "name": "Staff Sighting",
-        "icon": "\ud83d\udece\ufe0f",
+        "icon": "🛎️",
         "tier": "uncommon",
         "desc": "Be online at the same time as a member of Puzzmo staff.",
         "notes": ""
@@ -1898,7 +1898,7 @@
     "ke0e56d83d18": {
         "key": "ke0e56d83d18",
         "name": "Congrats!",
-        "icon": "\ud83d\udc90",
+        "icon": "💐",
         "tier": "rare",
         "desc": "Witness two neighbors finish within one second of each other.",
         "notes": ""
@@ -1906,7 +1906,7 @@
     "k64ff0c0622f": {
         "key": "k64ff0c0622f",
         "name": "Standing Room Only",
-        "icon": "\ud83e\uddcd",
+        "icon": "🧍",
         "tier": "epic",
         "desc": "Witness ten wins in one sitting.",
         "notes": ""
@@ -1914,7 +1914,7 @@
     "k127c5058311": {
         "key": "k127c5058311",
         "name": "Warming Up",
-        "icon": "\ud83d\udd06",
+        "icon": "🔆",
         "tier": "common",
         "desc": "Deal ten games.",
         "notes": ""
@@ -1922,7 +1922,7 @@
     "k906dbac79bf": {
         "key": "k906dbac79bf",
         "name": "Frequent Flyer",
-        "icon": "\ud83d\udeeb",
+        "icon": "🛫",
         "tier": "uncommon",
         "desc": "Deal 100 games.",
         "notes": ""
@@ -1930,7 +1930,7 @@
     "kd66f6a8c501": {
         "key": "kd66f6a8c501",
         "name": "Steady Hands",
-        "icon": "\ud83e\udef1",
+        "icon": "🫱",
         "tier": "rare",
         "desc": "Win four games without undos in one day.",
         "notes": ""
@@ -1938,7 +1938,7 @@
     "k952686e5329": {
         "key": "k952686e5329",
         "name": "Sticky Fingers",
-        "icon": "\ud83e\uddf2",
+        "icon": "🧲",
         "tier": "uncommon",
         "desc": "Move 100 runs of two or more cards.",
         "notes": ""
@@ -1946,7 +1946,7 @@
     "kf1ce97679a3": {
         "key": "kf1ce97679a3",
         "name": "Double Digits",
-        "icon": "\ud83d\udd1f",
+        "icon": "🔟",
         "tier": "epic",
         "desc": "Win ten deals in a row.",
         "notes": ""
@@ -1954,7 +1954,7 @@
     "k1ae347ef48c": {
         "key": "k1ae347ef48c",
         "name": "Magnificent Seven",
-        "icon": "\ud83e\udd20",
+        "icon": "🤠",
         "tier": "rare",
         "desc": "Win seven deals in a row.",
         "notes": ""
@@ -1962,7 +1962,7 @@
     "kb9f56789d65": {
         "key": "kb9f56789d65",
         "name": "Suit Yourself",
-        "icon": "\u2660\ufe0f",
+        "icon": "♠️",
         "tier": "uncommon",
         "desc": "Finish the suits in this order: spades, hearts, diamonds, clubs.",
         "notes": ""
@@ -1970,7 +1970,7 @@
     "k38bb7d312f4": {
         "key": "k38bb7d312f4",
         "name": "Sunk Cost",
-        "icon": "\u2693",
+        "icon": "⚓",
         "tier": "rare",
         "desc": "Abandon a game after more than half an hour in it.",
         "notes": ""
@@ -1978,7 +1978,7 @@
     "k765fd3b15f6": {
         "key": "k765fd3b15f6",
         "name": "Surgical",
-        "icon": "\ud83e\ude7a",
+        "icon": "🩺",
         "tier": "rare",
         "desc": "Witness a win in 80 moves or fewer.",
         "notes": ""
@@ -1986,7 +1986,7 @@
     "k3c9d00f99ac": {
         "key": "k3c9d00f99ac",
         "name": "Switch Hitter",
-        "icon": "\ud83c\udf9b\ufe0f",
+        "icon": "🎛️",
         "tier": "uncommon",
         "desc": "Win with at least 40% of your moves being taps and drags.",
         "notes": ""
@@ -1994,7 +1994,7 @@
     "k31218923707": {
         "key": "k31218923707",
         "name": "Empathy",
-        "icon": "\ud83e\udd17",
+        "icon": "🤗",
         "tier": "uncommon",
         "desc": "Witness a neighbor misclick nine times in a row.",
         "notes": ""
@@ -2002,7 +2002,7 @@
     "kb701f0f05b9": {
         "key": "kb701f0f05b9",
         "name": "Synchronized Swimming",
-        "icon": "\ud83e\ude71",
+        "icon": "🩱",
         "tier": "rare",
         "desc": "Recycle the stock within the same second as a neighbor.",
         "notes": ""
@@ -2010,7 +2010,7 @@
     "k6525acc1cda": {
         "key": "k6525acc1cda",
         "name": "Tailor",
-        "icon": "\ud83e\udea1",
+        "icon": "🪡",
         "tier": "uncommon",
         "desc": "Complete 60 full suits.",
         "notes": ""
@@ -2018,7 +2018,7 @@
     "k41882dfe96f": {
         "key": "k41882dfe96f",
         "name": "Tap Dancer",
-        "icon": "\ud83e\ude70",
+        "icon": "🩰",
         "tier": "uncommon",
         "desc": "Make 1,700 tap moves.",
         "notes": ""
@@ -2026,7 +2026,7 @@
     "k82fb9ac281a": {
         "key": "k82fb9ac281a",
         "name": "Card Shark",
-        "icon": "\ud83e\udd88",
+        "icon": "🦈",
         "tier": "uncommon",
         "desc": "Win 10 games.",
         "notes": ""
@@ -2034,7 +2034,7 @@
     "k1d984c68d7f": {
         "key": "k1d984c68d7f",
         "name": "The Big Slide",
-        "icon": "\ud83d\udedd",
+        "icon": "🛝",
         "tier": "uncommon",
         "desc": "Stack an 11+ length run.",
         "notes": ""
@@ -2042,7 +2042,7 @@
     "k7bfe7f01624": {
         "key": "k7bfe7f01624",
         "name": "The Vault",
-        "icon": "\ud83d\udd10",
+        "icon": "🔐",
         "tier": "epic",
         "desc": "Unlock 200 achievements.",
         "notes": ""
@@ -2050,7 +2050,7 @@
     "k18eea4d160b": {
         "key": "k18eea4d160b",
         "name": "The Wave",
-        "icon": "\ud83c\udf0a",
+        "icon": "🌊",
         "tier": "uncommon",
         "desc": "Witness three wins from a single neighbor in one sitting.",
         "notes": ""
@@ -2058,7 +2058,7 @@
     "k7db96606d30": {
         "key": "k7db96606d30",
         "name": "Thorough Reader",
-        "icon": "\ud83d\udcd6",
+        "icon": "📖",
         "tier": "uncommon",
         "desc": "Recycle the deck ten times in one game.",
         "notes": ""
@@ -2066,7 +2066,7 @@
     "k9c42e42160e": {
         "key": "k9c42e42160e",
         "name": "777",
-        "icon": "\ud83c\udfb0",
+        "icon": "🎰",
         "tier": "common",
         "desc": "Three sevens atop the three leftmost columns, at the same height.",
         "notes": ""
@@ -2074,7 +2074,7 @@
     "keb9999608d1": {
         "key": "keb9999608d1",
         "name": "Three-Way Tie",
-        "icon": "\ud83e\udd1d",
+        "icon": "🤝",
         "tier": "rare",
         "desc": "Tie exactly with two neighbors at once, ten cards or more.",
         "notes": ""
@@ -2082,7 +2082,7 @@
     "k9b9e8326491": {
         "key": "k9b9e8326491",
         "name": "Tidy Up",
-        "icon": "\ud83d\uddc3\ufe0f",
+        "icon": "🗃️",
         "tier": "common",
         "desc": "Move a King and its stack from one otherwise-empty column to another.",
         "notes": ""
@@ -2090,7 +2090,7 @@
     "k2ccdea11d65": {
         "key": "k2ccdea11d65",
         "name": "Tough Crowd",
-        "icon": "\ud83d\ude36",
+        "icon": "😶",
         "tier": "uncommon",
         "desc": "Win five games in a row without a single high five.",
         "notes": ""
@@ -2098,7 +2098,7 @@
     "k3e5c7b49d2a": {
         "key": "k3e5c7b49d2a",
         "name": "Trimmed the Fat",
-        "icon": "\ud83d\udd2a",
+        "icon": "🔪",
         "tier": "uncommon",
         "desc": "Beat your lowest winning move count. (Once you have five wins.)",
         "notes": ""
@@ -2106,7 +2106,7 @@
     "k474245ca280": {
         "key": "k474245ca280",
         "name": "Triple Feature",
-        "icon": "\ud83d\ude31",
+        "icon": "😱",
         "tier": "rare",
         "desc": "Witness wins from neighbors with three different emoji in one sitting.",
         "notes": ""
@@ -2114,7 +2114,7 @@
     "kc0a70e5a935": {
         "key": "kc0a70e5a935",
         "name": "Triple Shift",
-        "icon": "\ud83d\udd52",
+        "icon": "🕒",
         "tier": "epic",
         "desc": "Win in the morning, afternoon, and night of a single day.",
         "notes": ""
@@ -2122,7 +2122,7 @@
     "kefe2f8ac919": {
         "key": "kefe2f8ac919",
         "name": "Twinning",
-        "icon": "\ud83d\udc6f",
+        "icon": "👯",
         "tier": "rare",
         "desc": "Witness a win by a neighbor wearing your emoji.",
         "notes": ""
@@ -2130,7 +2130,7 @@
     "k48daee6dd6c": {
         "key": "k48daee6dd6c",
         "name": "Twin Peaks",
-        "icon": "\ud83d\uddfb",
+        "icon": "🗻",
         "tier": "epic",
         "desc": "Win 10 different five-star deals.",
         "notes": ""
@@ -2138,7 +2138,7 @@
     "k1cc795959bf": {
         "key": "k1cc795959bf",
         "name": "Twin Suits",
-        "icon": "\ud83e\udde3",
+        "icon": "🧣",
         "tier": "common",
         "desc": "Draw the Seven and Eight of Hearts together.",
         "notes": ""
@@ -2146,7 +2146,7 @@
     "k14e498daed3": {
         "key": "k14e498daed3",
         "name": "Unbroken",
-        "icon": "\u267e\ufe0f",
+        "icon": "♾️",
         "tier": "uncommon",
         "desc": "Reveal a face-down card on ten consecutive card moves.",
         "notes": ""
@@ -2154,7 +2154,7 @@
     "ka0fe21e0ee5": {
         "key": "ka0fe21e0ee5",
         "name": "Uncharted",
-        "icon": "\ud83c\udff4",
+        "icon": "🏴",
         "tier": "uncommon",
         "desc": "Be the first player ever to win your deal.",
         "notes": ""
@@ -2162,7 +2162,7 @@
     "k30295af6cd0": {
         "key": "k30295af6cd0",
         "name": "Undercover Aces",
-        "icon": "\ud83e\udd77",
+        "icon": "🥷",
         "tier": "rare",
         "desc": "Flip all four Aces up from face-down in one game.",
         "notes": ""
@@ -2170,7 +2170,7 @@
     "kf81eb5cec81": {
         "key": "kf81eb5cec81",
         "name": "Underdog",
-        "icon": "\ud83d\udc15",
+        "icon": "🐕",
         "tier": "rare",
         "desc": "Win while every neighbor has at least 50 more achievements than you.",
         "notes": ""
@@ -2178,7 +2178,7 @@
     "k1f17727e907": {
         "key": "k1f17727e907",
         "name": "Untouchable",
-        "icon": "\ud83d\udc85",
+        "icon": "💅",
         "tier": "epic",
         "desc": "Win with no undos, no misclicks, and no recycles.",
         "notes": ""
@@ -2186,7 +2186,7 @@
     "k70e2d26c3a2": {
         "key": "k70e2d26c3a2",
         "name": "Up Top",
-        "icon": "\u270b",
+        "icon": "✋",
         "tier": "common",
         "desc": "Give your first high five.",
         "notes": ""
@@ -2194,7 +2194,7 @@
     "k5ccfea18ec8": {
         "key": "k5ccfea18ec8",
         "name": "Wallflower",
-        "icon": "\ud83d\udc64",
+        "icon": "👤",
         "tier": "common",
         "desc": "Watch your neighbors for ten minutes without touching a card.",
         "notes": ""
@@ -2202,7 +2202,7 @@
     "k945f3467d80": {
         "key": "k945f3467d80",
         "name": "Waste Not",
-        "icon": "\u267b\ufe0f",
+        "icon": "♻️",
         "tier": "uncommon",
         "desc": "Play four cards in a row from the waste without drawing.",
         "notes": ""
@@ -2210,7 +2210,7 @@
     "k45595bbbde4": {
         "key": "k45595bbbde4",
         "name": "Watched Through Fingers",
-        "icon": "\ud83e\udee3",
+        "icon": "🫣",
         "tier": "rare",
         "desc": "Witness a win with fifteen misclicks in it.",
         "notes": ""
@@ -2218,7 +2218,7 @@
     "kc5b4051deff": {
         "key": "kc5b4051deff",
         "name": "Welcome Wagon",
-        "icon": "\ud83c\udf7c",
+        "icon": "🍼",
         "tier": "uncommon",
         "desc": "Your win is witnessed by a neighbor playing their very first game.",
         "notes": ""
@@ -2226,7 +2226,7 @@
     "kf840ecdd08c": {
         "key": "kf840ecdd08c",
         "name": "Tea Time",
-        "icon": "\ud83e\uded6",
+        "icon": "🫖",
         "tier": "rare",
         "desc": "Vanish mid-game for ten minutes, come back, and win.",
         "notes": ""
@@ -2234,7 +2234,7 @@
     "k67033e94ec6": {
         "key": "k67033e94ec6",
         "name": "We've All Been There",
-        "icon": "\ud83e\udd72",
+        "icon": "🥲",
         "tier": "common",
         "desc": "Witness a neighbor undo five times in one game.",
         "notes": ""
@@ -2242,7 +2242,7 @@
     "ke10fafd39bf": {
         "key": "ke10fafd39bf",
         "name": "White Whale",
-        "icon": "\ud83d\udc33",
+        "icon": "🐳",
         "tier": "epic",
         "desc": "Unlock 300 achievements.",
         "notes": ""
@@ -2250,7 +2250,7 @@
     "k0c6b204ec65": {
         "key": "k0c6b204ec65",
         "name": "Who's There?",
-        "icon": "\ud83e\udd5a",
+        "icon": "🥚",
         "tier": "uncommon",
         "desc": "Tap a neighbor's board during their win celebration.",
         "notes": ""
@@ -2258,7 +2258,7 @@
     "kb7fcde55f5d": {
         "key": "kb7fcde55f5d",
         "name": "Wildlife Photographer",
-        "icon": "\ud83d\udcf7",
+        "icon": "📷",
         "tier": "rare",
         "desc": "Witness wins from fifteen different animal emoji.",
         "notes": ""
@@ -2266,7 +2266,7 @@
     "k725d3017cc9": {
         "key": "k725d3017cc9",
         "name": "Window Shopping",
-        "icon": "\ud83e\ude9f",
+        "icon": "🪟",
         "tier": "rare",
         "desc": "Flip through the whole deck three times in one game without playing a card.",
         "notes": ""
@@ -2274,7 +2274,7 @@
     "kdf93b831dbb": {
         "key": "kdf93b831dbb",
         "name": "TGIF",
-        "icon": "\ud83c\udf89",
+        "icon": "🎉",
         "tier": "common",
         "desc": "Win on a Friday.",
         "notes": ""
@@ -2282,7 +2282,7 @@
     "k3efdd966c62": {
         "key": "k3efdd966c62",
         "name": "Monday Blues",
-        "icon": "\ud83e\uded0",
+        "icon": "🫐",
         "tier": "common",
         "desc": "Win on a Monday.",
         "notes": ""
@@ -2290,7 +2290,7 @@
     "k8532958d914": {
         "key": "k8532958d914",
         "name": "Centurion",
-        "icon": "\ud83d\udcaf",
+        "icon": "💯",
         "tier": "rare",
         "desc": "Win 100 games.",
         "notes": ""
@@ -2298,7 +2298,7 @@
     "k446d827c4fb": {
         "key": "k446d827c4fb",
         "name": "Seasoned",
-        "icon": "\ud83e\uddc2",
+        "icon": "🧂",
         "tier": "uncommon",
         "desc": "Win 25 games.",
         "notes": ""
@@ -2306,7 +2306,7 @@
     "k1f7ef3214c1": {
         "key": "k1f7ef3214c1",
         "name": "You're a Star",
-        "icon": "\ud83c\udf1f",
+        "icon": "🌟",
         "tier": "common",
         "desc": "Win three games.",
         "notes": ""
@@ -2314,7 +2314,7 @@
     "k5674aee7b2e": {
         "key": "k5674aee7b2e",
         "name": "Half Century",
-        "icon": "\ud83d\udd70\ufe0f",
+        "icon": "🕰️",
         "tier": "rare",
         "desc": "Win 50 games.",
         "notes": ""
@@ -2322,7 +2322,7 @@
     "kbe5ca6de8a8": {
         "key": "kbe5ca6de8a8",
         "name": "Saturday Cartoons",
-        "icon": "\ud83e\udd63",
+        "icon": "🥣",
         "tier": "common",
         "desc": "Win on a Saturday.",
         "notes": ""
@@ -2330,7 +2330,7 @@
     "kf484b490833": {
         "key": "kf484b490833",
         "name": "Lazy Sunday",
-        "icon": "\ud83e\udd5e",
+        "icon": "🥞",
         "tier": "common",
         "desc": "Win on a Sunday.",
         "notes": ""
@@ -2338,7 +2338,7 @@
     "ka6fbd0a9a7f": {
         "key": "ka6fbd0a9a7f",
         "name": "Little Friday",
-        "icon": "\ud83c\udf79",
+        "icon": "🍹",
         "tier": "common",
         "desc": "Win on a Thursday.",
         "notes": ""
@@ -2346,7 +2346,7 @@
     "k466f1b50647": {
         "key": "k466f1b50647",
         "name": "Taco Tuesday",
-        "icon": "\ud83c\udf2e",
+        "icon": "🌮",
         "tier": "common",
         "desc": "Win on a Tuesday.",
         "notes": ""
@@ -2354,7 +2354,7 @@
     "k8ab7b7a52c9": {
         "key": "k8ab7b7a52c9",
         "name": "Hump Day",
-        "icon": "\ud83d\udc2b",
+        "icon": "🐫",
         "tier": "common",
         "desc": "Win on a Wednesday.",
         "notes": ""
@@ -2362,7 +2362,7 @@
     "k33d9ebfa2c3": {
         "key": "k33d9ebfa2c3",
         "name": "Witching Hour",
-        "icon": "\ud83e\uddf9",
+        "icon": "🧹",
         "tier": "rare",
         "desc": "Win in the 3 a.m. hour.",
         "notes": ""
@@ -2370,7 +2370,7 @@
     "kdc98f1a1867": {
         "key": "kdc98f1a1867",
         "name": "Regular",
-        "icon": "\ud83c\udf7a",
+        "icon": "🍺",
         "tier": "uncommon",
         "desc": "Witness 10 wins.",
         "notes": ""
@@ -2378,7 +2378,7 @@
     "k06cda19da43": {
         "key": "k06cda19da43",
         "name": "Season Ticket",
-        "icon": "\ud83c\udf9f\ufe0f",
+        "icon": "🎟️",
         "tier": "uncommon",
         "desc": "Witness 25 wins.",
         "notes": ""
@@ -2386,7 +2386,7 @@
     "k7fb7034af35": {
         "key": "k7fb7034af35",
         "name": "Superfan",
-        "icon": "\ud83d\udce3",
+        "icon": "📣",
         "tier": "epic",
         "desc": "Witness 250 wins.",
         "notes": ""
@@ -2394,7 +2394,7 @@
     "kffe612bcbc8": {
         "key": "kffe612bcbc8",
         "name": "Spectator",
-        "icon": "\ud83c\udfab",
+        "icon": "🎫",
         "tier": "common",
         "desc": "Witness three wins.",
         "notes": ""
@@ -2402,7 +2402,7 @@
     "kaefa1275485": {
         "key": "kaefa1275485",
         "name": "Devotee",
-        "icon": "\ud83d\udd6f\ufe0f",
+        "icon": "🕯️",
         "tier": "rare",
         "desc": "Witness 50 wins.",
         "notes": ""
@@ -2410,7 +2410,7 @@
     "k2b1a71b8fee": {
         "key": "k2b1a71b8fee",
         "name": "Word of Mouth",
-        "icon": "\ud83c\udf99\ufe0f",
+        "icon": "🎙️",
         "tier": "rare",
         "desc": "Your wins have been witnessed 100 times.",
         "notes": ""
@@ -2418,7 +2418,7 @@
     "k2a9227f9217": {
         "key": "k2a9227f9217",
         "name": "Zookeeper",
-        "icon": "\ud83e\uddd1\u200d\ud83c\udf3e",
+        "icon": "🧑‍🌾",
         "tier": "rare",
         "desc": "Have had twelve different animal emoji as neighbors.",
         "notes": ""
@@ -2426,7 +2426,7 @@
     "k993d340156b": {
         "key": "k993d340156b",
         "name": "Commitment Issues",
-        "icon": "\ud83d\udc8d",
+        "icon": "💍",
         "tier": "epic",
         "desc": "Abandon 100 deals.",
         "notes": ""
@@ -2434,7 +2434,7 @@
     "k17289d34e3b": {
         "key": "k17289d34e3b",
         "name": "Accordion",
-        "icon": "\ud83e\ude97",
+        "icon": "🪗",
         "tier": "uncommon",
         "desc": "Resize the window five times in one sitting.",
         "notes": ""
@@ -2442,7 +2442,7 @@
     "kdad8e9144b6": {
         "key": "kdad8e9144b6",
         "name": "Is this even shuffled?",
-        "icon": "\ud83d\ude44",
+        "icon": "🙄",
         "tier": "uncommon",
         "desc": "Start with all four aces exposed.",
         "notes": ""
@@ -2450,7 +2450,7 @@
     "k3c10c1702de": {
         "key": "k3c10c1702de",
         "name": "All Thumbs",
-        "icon": "\ud83d\udc4d",
+        "icon": "👍",
         "tier": "rare",
         "desc": "Make 53 misclicks in one game.",
         "notes": ""
@@ -2458,7 +2458,7 @@
     "kbb64fc85734": {
         "key": "kbb64fc85734",
         "name": "Ambidextrous",
-        "icon": "\ud83d\udd00",
+        "icon": "🔀",
         "tier": "uncommon",
         "desc": "Win with each handedness setting.",
         "notes": ""
@@ -2466,7 +2466,7 @@
     "kcfbe5255a10": {
         "key": "kcfbe5255a10",
         "name": "Babel",
-        "icon": "\ud83d\udd1d",
+        "icon": "🔝",
         "tier": "rare",
         "desc": "Grow a tableau pile eighteen cards tall.",
         "notes": ""
@@ -2474,7 +2474,7 @@
     "k9c4e146f7f1": {
         "key": "k9c4e146f7f1",
         "name": "Backseat Driver",
-        "icon": "\ud83d\ude97",
+        "icon": "🚗",
         "tier": "uncommon",
         "desc": "Watch a neighbor flip through the entire stock twice without playing a card, when there was one they could have played.",
         "notes": ""
@@ -2482,7 +2482,7 @@
     "kdc12023fad4": {
         "key": "kdc12023fad4",
         "name": "Butterfingers",
-        "icon": "\ud83e\uddc8",
+        "icon": "🧈",
         "tier": "epic",
         "desc": "Make 100 misclicks in one game.",
         "notes": ""
@@ -2490,7 +2490,7 @@
     "k5ed797a3a18": {
         "key": "k5ed797a3a18",
         "name": "Cold Open",
-        "icon": "\ud83e\uddca",
+        "icon": "🧊",
         "tier": "uncommon",
         "desc": "Go 80 moves before sending the first card to a foundation.",
         "notes": ""
@@ -2498,7 +2498,7 @@
     "kd50aa1a3c62": {
         "key": "kd50aa1a3c62",
         "name": "Believe",
-        "icon": "\u26c4",
+        "icon": "⛄",
         "tier": "rare",
         "desc": "Go ten straight deals without a win. You've got this.",
         "notes": ""
@@ -2506,7 +2506,7 @@
     "k9525e060c29": {
         "key": "k9525e060c29",
         "name": "Court Appearance",
-        "icon": "\u269c\ufe0f",
+        "icon": "⚜️",
         "tier": "common",
         "desc": "Draw the Jack of Clubs and Queen of Diamonds together.",
         "notes": ""
@@ -2514,7 +2514,7 @@
     "k37415a8aeb7": {
         "key": "k37415a8aeb7",
         "name": "Cartographer",
-        "icon": "\ud83d\uddfa\ufe0f",
+        "icon": "🗺️",
         "tier": "rare",
         "desc": "Deal 250 different puzzles.",
         "notes": ""
@@ -2522,7 +2522,7 @@
     "k753a97cdbae": {
         "key": "k753a97cdbae",
         "name": "Deep Pockets",
-        "icon": "\ud83d\udc56",
+        "icon": "👖",
         "tier": "uncommon",
         "desc": "Have all 24 stock cards in the waste at once.",
         "notes": ""
@@ -2530,7 +2530,7 @@
     "k4ea3eb5d405": {
         "key": "k4ea3eb5d405",
         "name": "Double Descent",
-        "icon": "\ud83e\udec5",
+        "icon": "🫅",
         "tier": "rare",
         "desc": "Have two complete King-to-Ace runs in the tableau at once.",
         "notes": ""
@@ -2538,7 +2538,7 @@
     "ke6b451e1657": {
         "key": "ke6b451e1657",
         "name": "Everybody Wins",
-        "icon": "\ud83e\udd73",
+        "icon": "🥳",
         "tier": "rare",
         "desc": "You and both neighbors finish within ten seconds.",
         "notes": ""
@@ -2546,7 +2546,7 @@
     "kc33a72f1cb9": {
         "key": "kc33a72f1cb9",
         "name": "Did You Try Turning it Off and On Again?",
-        "icon": "\ud83d\udce6",
+        "icon": "📦",
         "tier": "rare",
         "desc": "Twenty moves in, your pile heights read 1-2-3-4-5-6-7, just like when dealt.",
         "notes": ""
@@ -2554,7 +2554,7 @@
     "k56056f83f95": {
         "key": "k56056f83f95",
         "name": "Fifth Time's the Charm",
-        "icon": "\ud83d\udd90\ufe0f",
+        "icon": "🖐️",
         "tier": "rare",
         "desc": "Win a deal on your fifth consecutive attempt at it.",
         "notes": ""
@@ -2562,7 +2562,7 @@
     "kd24e83bef55": {
         "key": "kd24e83bef55",
         "name": "First!",
-        "icon": "\ud83e\udd47",
+        "icon": "🥇",
         "tier": "rare",
         "desc": "Score the day's very first win, worldwide.",
         "notes": ""
@@ -2570,7 +2570,7 @@
     "k35d718afa69": {
         "key": "k35d718afa69",
         "name": "Table Win",
-        "icon": "\ud83e\udeef",
+        "icon": "🫯",
         "tier": "epic",
         "desc": "Have all 52 cards face-up on the tableau, in four stacks, without ever putting cards on the foundations.",
         "notes": ""
@@ -2578,7 +2578,7 @@
     "ke71385dabd0": {
         "key": "ke71385dabd0",
         "name": "SNAFU",
-        "icon": "\ud83e\udd39",
+        "icon": "🤹",
         "tier": "rare",
         "desc": "Win despite five misclicks, five undos, AND five recycles in one game.",
         "notes": ""
@@ -2586,7 +2586,7 @@
     "k6eed4fc86f3": {
         "key": "k6eed4fc86f3",
         "name": "Full Descent",
-        "icon": "\ud83e\udeac",
+        "icon": "🪬",
         "tier": "uncommon",
         "desc": "One tableau column holds a complete King-to-Ace run with nothing face-down beneath it.",
         "notes": ""
@@ -2594,7 +2594,7 @@
     "ka502559304f": {
         "key": "ka502559304f",
         "name": "Gift Wrapped",
-        "icon": "\ud83c\udf80",
+        "icon": "🎀",
         "tier": "uncommon",
         "desc": "Play a same-suit Ace and Two from the opening stock draw straight to the foundations.",
         "notes": ""
@@ -2602,7 +2602,7 @@
     "k6f80c2ea1ae": {
         "key": "k6f80c2ea1ae",
         "name": "Tragedy of the Commons",
-        "icon": "\ud83d\udc04",
+        "icon": "🐄",
         "tier": "uncommon",
         "desc": "Witness a neighbor clear four tableau columns with twenty or fewer cards home.",
         "notes": ""
@@ -2610,7 +2610,7 @@
     "k2156338bd53": {
         "key": "k2156338bd53",
         "name": "Groundhog Day",
-        "icon": "\ud83d\udc3f\ufe0f",
+        "icon": "🐿️",
         "tier": "rare",
         "desc": "Win a game that took 30 undos.",
         "notes": ""
@@ -2618,7 +2618,7 @@
     "k557694e340c": {
         "key": "k557694e340c",
         "name": "Hand-Me-Down",
-        "icon": "\ud83e\udde5",
+        "icon": "🧥",
         "tier": "rare",
         "desc": "Win a deal you once witnessed a neighbor win.",
         "notes": ""
@@ -2626,7 +2626,7 @@
     "k5061b3455e0": {
         "key": "k5061b3455e0",
         "name": "Heartbreaker",
-        "icon": "\ud83d\udc94",
+        "icon": "💔",
         "tier": "rare",
         "desc": "Witness a neighbor walk away from a game they had nearly won.",
         "notes": ""
@@ -2634,7 +2634,7 @@
     "k36f7e07c480": {
         "key": "k36f7e07c480",
         "name": "Hype Squad",
-        "icon": "\ud83c\udfba",
+        "icon": "🎺",
         "tier": "uncommon",
         "desc": "Give 25 high fives.",
         "notes": ""
@@ -2642,7 +2642,7 @@
     "k9204a09e9a8": {
         "key": "k9204a09e9a8",
         "name": "Inches from Glory",
-        "icon": "\ud83d\udccf",
+        "icon": "📏",
         "tier": "epic",
         "desc": "Witness a neighbor leave with 48 cards on the foundations.",
         "notes": ""
@@ -2650,7 +2650,7 @@
     "k11d7de68066": {
         "key": "k11d7de68066",
         "name": "Instant Regret",
-        "icon": "\ud83d\ude16",
+        "icon": "😖",
         "tier": "uncommon",
         "desc": "Undo within five seconds of your first move.",
         "notes": ""
@@ -2658,7 +2658,7 @@
     "ke0043f46e27": {
         "key": "ke0043f46e27",
         "name": "Intermission",
-        "icon": "\ud83e\udd64",
+        "icon": "🥤",
         "tier": "uncommon",
         "desc": "Watch for twenty minutes between two of your own games.",
         "notes": ""
@@ -2666,7 +2666,7 @@
     "k7affb8be340": {
         "key": "k7affb8be340",
         "name": "Mixer",
-        "icon": "\ud83c\udf78",
+        "icon": "🍸",
         "tier": "rare",
         "desc": "Reach 100 different emoji as neighbors.",
         "notes": ""
@@ -2674,7 +2674,7 @@
     "kecc5ec35f78": {
         "key": "kecc5ec35f78",
         "name": "Lapped",
-        "icon": "\ud83e\udd71",
+        "icon": "🥱",
         "tier": "rare",
         "desc": "Reach 26 cards while a neighbor has been sitting at zero for two minutes.",
         "notes": ""
@@ -2682,7 +2682,7 @@
     "k23751225be1": {
         "key": "k23751225be1",
         "name": "Left Hanging",
-        "icon": "\ud83d\ude4b",
+        "icon": "🙋",
         "tier": "uncommon",
         "desc": "Have 10 of your high fives go unanswered.",
         "notes": ""
@@ -2690,7 +2690,7 @@
     "kd7915498890": {
         "key": "kd7915498890",
         "name": "The Long Way Round",
-        "icon": "\ud83d\ude82",
+        "icon": "🚂",
         "tier": "uncommon",
         "desc": "Win in 200 moves or more.",
         "notes": ""
@@ -2698,7 +2698,7 @@
     "kc0d9f78ce05": {
         "key": "kc0d9f78ce05",
         "name": "Low Tide",
-        "icon": "\ud83e\udd80",
+        "icon": "🦀",
         "tier": "rare",
         "desc": "Every face-up card in the opening deal is a six or lower.",
         "notes": ""
@@ -2706,7 +2706,7 @@
     "k3f2a8360580": {
         "key": "k3f2a8360580",
         "name": "Loyalist",
-        "icon": "\ud83e\udd19",
+        "icon": "🤙",
         "tier": "rare",
         "desc": "Win ten times in a row without a single drag.",
         "notes": ""
@@ -2714,7 +2714,7 @@
     "k2606271437b": {
         "key": "k2606271437b",
         "name": "Make a Wish",
-        "icon": "\ud83c\udf20",
+        "icon": "🌠",
         "tier": "epic",
         "desc": "Win at exactly 11:11.",
         "notes": ""
@@ -2722,7 +2722,7 @@
     "k27075086fcc": {
         "key": "k27075086fcc",
         "name": "Midnight Society",
-        "icon": "\ud83d\udd26",
+        "icon": "🔦",
         "tier": "rare",
         "desc": "Deal a game at the stroke of midnight.",
         "notes": ""
@@ -2730,7 +2730,7 @@
     "k4fb19e811d1": {
         "key": "k4fb19e811d1",
         "name": "Not You Again",
-        "icon": "\ud83d\ude12",
+        "icon": "😒",
         "tier": "uncommon",
         "desc": "Abandon the same deal twice.",
         "notes": ""
@@ -2738,7 +2738,7 @@
     "k69151695e20": {
         "key": "k69151695e20",
         "name": "Odyssey",
-        "icon": "\ud83d\udef6",
+        "icon": "🛶",
         "tier": "rare",
         "desc": "Win in 300 moves or more.",
         "notes": ""
@@ -2746,7 +2746,7 @@
     "k28a7270890b": {
         "key": "k28a7270890b",
         "name": "Onion",
-        "icon": "\ud83e\uddc5",
+        "icon": "🧅",
         "tier": "uncommon",
         "desc": "Reveal your final face-down card after at least 200 moves.",
         "notes": ""
@@ -2754,7 +2754,7 @@
     "keb1a991d0c0": {
         "key": "keb1a991d0c0",
         "name": "Opposites Attract",
-        "icon": "\u262f\ufe0f",
+        "icon": "☯️",
         "tier": "uncommon",
         "desc": "Draw the Ace of Hearts and King of Clubs together.",
         "notes": ""
@@ -2762,7 +2762,7 @@
     "kb75fd900ba4": {
         "key": "kb75fd900ba4",
         "name": "Paint Drying",
-        "icon": "\ud83d\udd8c\ufe0f",
+        "icon": "🖌️",
         "tier": "rare",
         "desc": "Witness a live neighbor sit at zero moves for five straight minutes.",
         "notes": ""
@@ -2770,7 +2770,7 @@
     "k3a00e8eea39": {
         "key": "k3a00e8eea39",
         "name": "Pay It Forward",
-        "icon": "\ud83d\udc9d",
+        "icon": "💝",
         "tier": "uncommon",
         "desc": "High-five someone within a minute of getting one.",
         "notes": ""
@@ -2778,7 +2778,7 @@
     "kc8207c3394c": {
         "key": "kc8207c3394c",
         "name": "Peekaboo",
-        "icon": "\ud83d\udc31",
+        "icon": "🐱",
         "tier": "uncommon",
         "desc": "Switch away from the tab and back ten times in one game.",
         "notes": ""
@@ -2786,7 +2786,7 @@
     "k5fb551fd8b0": {
         "key": "k5fb551fd8b0",
         "name": "Phoenix",
-        "icon": "\ud83d\udc26\u200d\ud83d\udd25",
+        "icon": "🐦‍🔥",
         "tier": "rare",
         "desc": "Win after ten straight deals without one.",
         "notes": ""
@@ -2794,7 +2794,7 @@
     "k25bb9f54c57": {
         "key": "k25bb9f54c57",
         "name": "Fast Follow",
-        "icon": "\ud83d\udca8",
+        "icon": "💨",
         "tier": "rare",
         "desc": "Win within three seconds of a neighbor's win.",
         "notes": ""
@@ -2802,7 +2802,7 @@
     "k15bb87305b6": {
         "key": "k15bb87305b6",
         "name": "Picky Eater",
-        "icon": "\ud83e\udd57",
+        "icon": "🥗",
         "tier": "uncommon",
         "desc": "Reject three deals in a row within 30 seconds each.",
         "notes": ""
@@ -2810,7 +2810,7 @@
     "k37e8047b8a0": {
         "key": "k37e8047b8a0",
         "name": "Perpetual Motion",
-        "icon": "\ud83c\udfa1",
+        "icon": "🎡",
         "tier": "epic",
         "desc": "Recycle the stock 1,000 times.",
         "notes": ""
@@ -2818,7 +2818,7 @@
     "k76cfd57581d": {
         "key": "k76cfd57581d",
         "name": "Royal Wedding",
-        "icon": "\ud83d\udc92",
+        "icon": "💒",
         "tier": "rare",
         "desc": "Move a complete Queen of Hearts-to-Ace run onto the King of Spades.",
         "notes": ""
@@ -2826,7 +2826,7 @@
     "kd4d4e5d7b84": {
         "key": "kd4d4e5d7b84",
         "name": "Runaway Train",
-        "icon": "\ud83d\ude85",
+        "icon": "🚅",
         "tier": "rare",
         "desc": "Lead both neighbors by 49 foundation cards.",
         "notes": ""
@@ -2834,7 +2834,7 @@
     "kc3a3009d9bd": {
         "key": "kc3a3009d9bd",
         "name": "Scenic Route",
-        "icon": "\ud83d\ude8c",
+        "icon": "🚌",
         "tier": "uncommon",
         "desc": "Recycle the stock nine times and still win.",
         "notes": ""
@@ -2842,7 +2842,7 @@
     "ke34cb51344d": {
         "key": "ke34cb51344d",
         "name": "Seeing Double",
-        "icon": "\ud83c\udf8e",
+        "icon": "🎎",
         "tier": "uncommon",
         "desc": "Your two neighbors wear the same emoji.",
         "notes": ""
@@ -2850,7 +2850,7 @@
     "k7c62266224c": {
         "key": "k7c62266224c",
         "name": "Serial Restarter",
-        "icon": "\ud83d\udd04",
+        "icon": "🔄",
         "tier": "uncommon",
         "desc": "Reset deals 25 times.",
         "notes": ""
@@ -2858,7 +2858,7 @@
     "k11b4a47816c": {
         "key": "k11b4a47816c",
         "name": "Ships in the Night",
-        "icon": "\ud83d\udea2",
+        "icon": "🚢",
         "tier": "uncommon",
         "desc": "Witness a neighbor arrive and leave without making a single move.",
         "notes": ""
@@ -2866,7 +2866,7 @@
     "kbf004baaab5": {
         "key": "kbf004baaab5",
         "name": "Skyline",
-        "icon": "\ud83c\udf01",
+        "icon": "🌁",
         "tier": "rare",
         "desc": "Have two towers thirteen cards tall at the same time.",
         "notes": ""
@@ -2874,7 +2874,7 @@
     "kf605a5ab55b": {
         "key": "kf605a5ab55b",
         "name": "So Close",
-        "icon": "\ud83d\ude24",
+        "icon": "😤",
         "tier": "rare",
         "desc": "Abandon a game with 40 cards already up.",
         "notes": ""
@@ -2882,7 +2882,7 @@
     "k3d0639a835c": {
         "key": "k3d0639a835c",
         "name": "Space Elevator",
-        "icon": "\ud83d\udef0\ufe0f",
+        "icon": "🛰️",
         "tier": "epic",
         "desc": "Grow a tableau pile nineteen cards tall.",
         "notes": ""
@@ -2890,7 +2890,7 @@
     "k8d67ab815f3": {
         "key": "k8d67ab815f3",
         "name": "Photo Finish",
-        "icon": "\ud83d\udcf8",
+        "icon": "📸",
         "tier": "rare",
         "desc": "A neighbor wins while you sit at exactly fifty-one cards.",
         "notes": ""
@@ -2898,7 +2898,7 @@
     "kde35135326e": {
         "key": "kde35135326e",
         "name": "Stuck in a Loop",
-        "icon": "\ud83d\udd02",
+        "icon": "🔂",
         "tier": "rare",
         "desc": "Make 50 undos in a single game.",
         "notes": ""
@@ -2906,7 +2906,7 @@
     "k88985013a63": {
         "key": "k88985013a63",
         "name": "Teacher's Pet",
-        "icon": "\ud83c\udf4e",
+        "icon": "🍎",
         "tier": "common",
         "desc": "Build one foundation to nine cards while another is still empty.",
         "notes": ""
@@ -2914,7 +2914,7 @@
     "k88c22bbbecf": {
         "key": "k88c22bbbecf",
         "name": "The Hammer",
-        "icon": "\ud83d\udd28",
+        "icon": "🔨",
         "tier": "common",
         "desc": "Draw a Two and a Seven of different suits together. Poker's worst hand.",
         "notes": ""
@@ -2922,7 +2922,7 @@
     "kb14cd1250cb": {
         "key": "kb14cd1250cb",
         "name": "The Long Con",
-        "icon": "\ud83e\udd9d",
+        "icon": "🦝",
         "tier": "rare",
         "desc": "Make 50 moves without a single foundation card, then win anyway.",
         "notes": ""
@@ -2930,7 +2930,7 @@
     "kc3d7da2131a": {
         "key": "kc3d7da2131a",
         "name": "The Long Stare",
-        "icon": "\ud83d\ude10",
+        "icon": "😐",
         "tier": "rare",
         "desc": "Witness a neighbor stare at a deal for five minutes and then leave.",
         "notes": ""
@@ -2938,7 +2938,7 @@
     "k80469af03a1": {
         "key": "k80469af03a1",
         "name": "The Long Think",
-        "icon": "\ud83d\udcad",
+        "icon": "💭",
         "tier": "rare",
         "desc": "Go three minutes without a move, then send fifteen cards to the foundations within a minute.",
         "notes": ""
@@ -2946,7 +2946,7 @@
     "k334e8000f47": {
         "key": "k334e8000f47",
         "name": "The Overtake",
-        "icon": "\ud83c\udfce\ufe0f",
+        "icon": "🏎️",
         "tier": "rare",
         "desc": "Trail a neighbor by twenty cards, then lead them by twenty.",
         "notes": ""
@@ -2954,7 +2954,7 @@
     "kc27b8fe0629": {
         "key": "kc27b8fe0629",
         "name": "Tidy Desk",
-        "icon": "\ud83d\uddc2\ufe0f",
+        "icon": "🗂️",
         "tier": "rare",
         "desc": "Win a game whose waste pile never held more than four cards.",
         "notes": ""
@@ -2962,7 +2962,7 @@
     "k79afcbc60c6": {
         "key": "k79afcbc60c6",
         "name": "Time Traveler",
-        "icon": "\ud83d\udef8",
+        "icon": "🛸",
         "tier": "uncommon",
         "desc": "Undo twenty times and still win.",
         "notes": ""
@@ -2970,7 +2970,7 @@
     "k4cc36f57d68": {
         "key": "k4cc36f57d68",
         "name": "Too Slow",
-        "icon": "\ud83e\udef7",
+        "icon": "🫷",
         "tier": "uncommon",
         "desc": "High-five a win more than 30 seconds after it.",
         "notes": ""
@@ -2978,7 +2978,7 @@
     "k4efab801ec8": {
         "key": "k4efab801ec8",
         "name": "Tower of Terror",
-        "icon": "\ud83d\uddfc",
+        "icon": "🗼",
         "tier": "uncommon",
         "desc": "Grow a tableau pile seventeen cards tall.",
         "notes": ""
@@ -2986,7 +2986,7 @@
     "k828f14143a5": {
         "key": "k828f14143a5",
         "name": "Tumble Dryer",
-        "icon": "\ud83e\udde6",
+        "icon": "🧦",
         "tier": "rare",
         "desc": "Recycle the deck twenty times in one game.",
         "notes": ""
@@ -2994,7 +2994,7 @@
     "k528d17a84d4": {
         "key": "k528d17a84d4",
         "name": "Twice as Fast",
-        "icon": "\u23e9",
+        "icon": "⏩",
         "tier": "rare",
         "desc": "Beat a previous win on the same deal by 50% or more.",
         "notes": ""
@@ -3002,7 +3002,7 @@
     "kb1ef066d81b": {
         "key": "kb1ef066d81b",
         "name": "Undeterred",
-        "icon": "\ud83c\udf35",
+        "icon": "🌵",
         "tier": "rare",
         "desc": "Request another deal after twenty straight deals without a win.",
         "notes": ""
@@ -3010,7 +3010,7 @@
     "ke48e330c91d": {
         "key": "ke48e330c91d",
         "name": "Chronic Rewinder",
-        "icon": "\u23ee\ufe0f",
+        "icon": "⏮️",
         "tier": "rare",
         "desc": "Undo 500 times.",
         "notes": ""
@@ -3018,7 +3018,7 @@
     "k33bda16e704": {
         "key": "k33bda16e704",
         "name": "Unfinished Business",
-        "icon": "\ud83d\udd19",
+        "icon": "🔙",
         "tier": "uncommon",
         "desc": "Win a deal after abandoning an earlier attempt at it.",
         "notes": ""
@@ -3026,7 +3026,7 @@
     "kac85efe8b70": {
         "key": "kac85efe8b70",
         "name": "Waffling",
-        "icon": "\ud83e\uddc7",
+        "icon": "🧇",
         "tier": "common",
         "desc": "Undo a move, make it again, then undo it again.",
         "notes": ""
@@ -3034,7 +3034,7 @@
     "k5f12329c65f": {
         "key": "k5f12329c65f",
         "name": "Washing Machine",
-        "icon": "\ud83e\uddfa",
+        "icon": "🧺",
         "tier": "rare",
         "desc": "Win a game that took ten recycles.",
         "notes": ""
@@ -3042,7 +3042,7 @@
     "k8da8fe8edfc": {
         "key": "k8da8fe8edfc",
         "name": "Omnipresent",
-        "icon": "\ud83d\udc41\ufe0f",
+        "icon": "👁️",
         "tier": "epic",
         "desc": "Witness 500 wins.",
         "notes": ""
@@ -3050,7 +3050,7 @@
     "k43b92627683": {
         "key": "k43b92627683",
         "name": "Witness Protection",
-        "icon": "\ud83d\udd75\ufe0f",
+        "icon": "🕵️",
         "tier": "rare",
         "desc": "Refresh your emoji 25 times.",
         "notes": ""
@@ -3058,7 +3058,7 @@
     "k65c9355c52a": {
         "key": "k65c9355c52a",
         "name": "Working the Room",
-        "icon": "\ud83c\udfdf\ufe0f",
+        "icon": "🏟️",
         "tier": "rare",
         "desc": "High-five three different winners within a minute.",
         "notes": ""
@@ -3066,7 +3066,7 @@
     "k93c425ee748": {
         "key": "k93c425ee748",
         "name": "Wrong Side of Bed",
-        "icon": "\ud83d\udecf\ufe0f",
+        "icon": "🛏️",
         "tier": "uncommon",
         "desc": "Misclick three times before your first successful move.",
         "notes": ""
@@ -3074,7 +3074,7 @@
     "k9b8a5d7fd04": {
         "key": "k9b8a5d7fd04",
         "name": "Alpine Speed",
-        "icon": "\u26f7\ufe0f",
+        "icon": "⛷️",
         "tier": "epic",
         "desc": "Win a five-star deal in under 70 seconds.",
         "notes": ""
@@ -3082,7 +3082,7 @@
     "ke1615298a24": {
         "key": "ke1615298a24",
         "name": "Good Deal",
-        "icon": "\ud83d\udcb8",
+        "icon": "💸",
         "tier": "rare",
         "desc": "Win in exactly 199 moves.",
         "notes": ""
@@ -3090,7 +3090,7 @@
     "k9cb454858a5": {
         "key": "k9cb454858a5",
         "name": "Barn Raising",
-        "icon": "\ud83d\udc77\u200d\u2640\ufe0f",
+        "icon": "👷‍♀️",
         "tier": "epic",
         "desc": "You and both neighbors send 200 cards home within one minute.",
         "notes": ""
@@ -3098,7 +3098,7 @@
     "kb4435ed9272": {
         "key": "kb4435ed9272",
         "name": "Black Belt",
-        "icon": "\ud83e\udd4b",
+        "icon": "🥋",
         "tier": "rare",
         "desc": "Win the same deal five times.",
         "notes": ""
@@ -3106,7 +3106,7 @@
     "kf0722f13b67": {
         "key": "kf0722f13b67",
         "name": "Bucket Brigade",
-        "icon": "\ud83e\udea3",
+        "icon": "🪣",
         "tier": "epic",
         "desc": "Play from each tableau column in left-to-right order on seven consecutive card moves.",
         "notes": ""
@@ -3114,7 +3114,7 @@
     "k215a8476900": {
         "key": "k215a8476900",
         "name": "Card Castle",
-        "icon": "\ud83c\udfef",
+        "icon": "🏯",
         "tier": "rare",
         "desc": "Have every tableau pile six cards or taller at once.",
         "notes": ""
@@ -3122,7 +3122,7 @@
     "k8a61b20de25": {
         "key": "k8a61b20de25",
         "name": "Clear Cutting",
-        "icon": "\ud83e\ude93",
+        "icon": "🪓",
         "tier": "uncommon",
         "desc": "Clear four tableau columns within 60 moves.",
         "notes": ""
@@ -3130,7 +3130,7 @@
     "kf017f0c006d": {
         "key": "kf017f0c006d",
         "name": "Clear Skies",
-        "icon": "\ud83c\udf24\ufe0f",
+        "icon": "🌤️",
         "tier": "rare",
         "desc": "Have no face-down cards left while the stock still holds twenty or more cards.",
         "notes": ""
@@ -3138,7 +3138,7 @@
     "kfb6f92c3fbf": {
         "key": "kfb6f92c3fbf",
         "name": "Comfort Food",
-        "icon": "\ud83c\udf5c",
+        "icon": "🍜",
         "tier": "rare",
         "desc": "Win the same deal three times.",
         "notes": ""
@@ -3146,7 +3146,7 @@
     "kf800f14dc10": {
         "key": "kf800f14dc10",
         "name": "Cleaned Out the Basics",
-        "icon": "\ud83e\uddfd",
+        "icon": "🧽",
         "tier": "epic",
         "desc": "Unlock every basic achievement.",
         "notes": ""
@@ -3154,7 +3154,7 @@
     "kc5e0f4fd0ef": {
         "key": "kc5e0f4fd0ef",
         "name": "Couch Potato",
-        "icon": "\ud83e\udd54",
+        "icon": "🥔",
         "tier": "common",
         "desc": "Witness a win before you've played any cards for the day.",
         "notes": ""
@@ -3162,7 +3162,7 @@
     "k130e29b757e": {
         "key": "k130e29b757e",
         "name": "Countdown",
-        "icon": "\ud83d\udd3b",
+        "icon": "🔻",
         "tier": "epic",
         "desc": "The seven top tableau cards fall in rank from left to right.",
         "notes": ""
@@ -3170,7 +3170,7 @@
     "k118a88fde4c": {
         "key": "k118a88fde4c",
         "name": "Deliberate",
-        "icon": "\ud83e\udda5",
+        "icon": "🦥",
         "tier": "rare",
         "desc": "Win with no two moves less than two seconds apart.",
         "notes": ""
@@ -3178,7 +3178,7 @@
     "k2429e221d7b": {
         "key": "k2429e221d7b",
         "name": "Downhill Race",
-        "icon": "\ud83d\udef7",
+        "icon": "🛷",
         "tier": "epic",
         "desc": "Win a one-star deal in under 60 seconds.",
         "notes": ""
@@ -3186,7 +3186,7 @@
     "kcc6d9f1a398": {
         "key": "kcc6d9f1a398",
         "name": "Card Mill",
-        "icon": "\ud83c\udfed",
+        "icon": "🏭",
         "tier": "epic",
         "desc": "Draw from the stock 20,000 times.",
         "notes": ""
@@ -3194,7 +3194,7 @@
     "k3ab11a858fe": {
         "key": "k3ab11a858fe",
         "name": "Evolution",
-        "icon": "\ud83e\uddec",
+        "icon": "🧬",
         "tier": "rare",
         "desc": "Improve your time on the same deal three times.",
         "notes": ""
@@ -3202,7 +3202,7 @@
     "k30b8465f1eb": {
         "key": "k30b8465f1eb",
         "name": "Familiar",
-        "icon": "\ud83d\udecb\ufe0f",
+        "icon": "🛋️",
         "tier": "uncommon",
         "desc": "Play on ten different days.",
         "notes": ""
@@ -3210,7 +3210,7 @@
     "k26e2f79e0f8": {
         "key": "k26e2f79e0f8",
         "name": "Fan Favorite",
-        "icon": "\ud83c\udfc5",
+        "icon": "🏅",
         "tier": "rare",
         "desc": "Get 100 high fives.",
         "notes": ""
@@ -3218,7 +3218,7 @@
     "k08afcbbd20e": {
         "key": "k08afcbbd20e",
         "name": "Favoritism",
-        "icon": "\ud83d\ude0d",
+        "icon": "😍",
         "tier": "uncommon",
         "desc": "Finish one whole suit while another foundation is still empty.",
         "notes": ""
@@ -3226,7 +3226,7 @@
     "kf8e87d3ed61": {
         "key": "kf8e87d3ed61",
         "name": "Feature Length",
-        "icon": "\ud83c\udfa5",
+        "icon": "🎥",
         "tier": "rare",
         "desc": "Witness a win over an hour in the making.",
         "notes": ""
@@ -3234,7 +3234,7 @@
     "kc1cb15779b0": {
         "key": "kc1cb15779b0",
         "name": "Fidget",
-        "icon": "\ud83e\ude80",
+        "icon": "🪀",
         "tier": "uncommon",
         "desc": "Drag a single card at least for ten seconds.",
         "notes": ""
@@ -3242,7 +3242,7 @@
     "kb8ef7a14acd": {
         "key": "kb8ef7a14acd",
         "name": "Full Circle",
-        "icon": "\ud83c\udff7\ufe0f",
+        "icon": "🏷️",
         "tier": "rare",
         "desc": "Refresh your animal emoji until you're back to the one you started with.",
         "notes": ""
@@ -3250,7 +3250,7 @@
     "k3b1d639a4be": {
         "key": "k3b1d639a4be",
         "name": "Grand Opening",
-        "icon": "\ud83e\udd42",
+        "icon": "🥂",
         "tier": "uncommon",
         "desc": "Play 24 card moves before drawing from the stock.",
         "notes": ""
@@ -3258,7 +3258,7 @@
     "k7c9eedcdfdd": {
         "key": "k7c9eedcdfdd",
         "name": "Grand Reveal",
-        "icon": "\ud83e\ude90",
+        "icon": "🪐",
         "tier": "rare",
         "desc": "Flip all 21 face-down cards before your tenth draw.",
         "notes": ""
@@ -3266,7 +3266,7 @@
     "k67824dac637": {
         "key": "k67824dac637",
         "name": "Hidden Ace",
-        "icon": "\ud83c\udccf",
+        "icon": "🃏",
         "tier": "uncommon",
         "desc": "Reveal the Ace of Spades as your final face-down card.",
         "notes": ""
@@ -3274,7 +3274,7 @@
     "k9e3b2437659": {
         "key": "k9e3b2437659",
         "name": "High Plateau",
-        "icon": "\ud83d\udff0",
+        "icon": "🟰",
         "tier": "rare",
         "desc": "Have all seven piles level at four cards or taller.",
         "notes": ""
@@ -3282,7 +3282,7 @@
     "ked76aa88f94": {
         "key": "ked76aa88f94",
         "name": "Home Turf",
-        "icon": "\ud83c\udfe1",
+        "icon": "🏡",
         "tier": "rare",
         "desc": "Win the same deal on three different days.",
         "notes": ""
@@ -3290,7 +3290,7 @@
     "k26e768fdd48": {
         "key": "k26e768fdd48",
         "name": "Jinx!",
-        "icon": "\u26a1",
+        "icon": "⚡",
         "tier": "epic",
         "desc": "Win within one second of a neighbor's win.",
         "notes": ""
@@ -3298,7 +3298,7 @@
     "k73f400ea3da": {
         "key": "k73f400ea3da",
         "name": "Counting Numbers",
-        "icon": "\u261d\ufe0f",
+        "icon": "☝️",
         "tier": "rare",
         "desc": "Win with exactly 12:34 on the game timer.",
         "notes": ""
@@ -3306,7 +3306,7 @@
     "k4456a430064": {
         "key": "k4456a430064",
         "name": "Late Bloomer",
-        "icon": "\ud83c\udf3b",
+        "icon": "🌻",
         "tier": "rare",
         "desc": "Earn your first win, five or more deals in. Worth the wait.",
         "notes": ""
@@ -3314,7 +3314,7 @@
     "k768fd3e6848": {
         "key": "k768fd3e6848",
         "name": "Lightning Round",
-        "icon": "\ud83c\udf29\ufe0f",
+        "icon": "🌩️",
         "tier": "epic",
         "desc": "Win flawlessly in under two minutes.",
         "notes": ""
@@ -3322,7 +3322,7 @@
     "k05c4c893b6e": {
         "key": "k05c4c893b6e",
         "name": "Lucky Sevens",
-        "icon": "7\ufe0f\u20e3",
+        "icon": "7️⃣",
         "tier": "epic",
         "desc": "Be win #7, #77, or #777 of the day.",
         "notes": ""
@@ -3330,7 +3330,7 @@
     "k697575c53aa": {
         "key": "k697575c53aa",
         "name": "Minute to Win It",
-        "icon": "\ud83d\udea8",
+        "icon": "🚨",
         "tier": "epic",
         "desc": "Win in under 60 seconds.",
         "notes": ""
@@ -3338,7 +3338,7 @@
     "k8513c66644b": {
         "key": "k8513c66644b",
         "name": "Missing Piece",
-        "icon": "\ud83e\udde9",
+        "icon": "🧩",
         "tier": "uncommon",
         "desc": "Complete a suit with a card straight off a draw.",
         "notes": ""
@@ -3346,7 +3346,7 @@
     "kc331324aad9": {
         "key": "kc331324aad9",
         "name": "Ten Thousand Strong",
-        "icon": "\ud83e\uddee",
+        "icon": "🧮",
         "tier": "rare",
         "desc": "Make 10,000 lifetime moves.",
         "notes": ""
@@ -3354,7 +3354,7 @@
     "k049e5d9261f": {
         "key": "k049e5d9261f",
         "name": "Muscle Memory",
-        "icon": "\ud83d\udcaa",
+        "icon": "💪",
         "tier": "rare",
         "desc": "Win a deal twice in exactly the same number of moves.",
         "notes": ""
@@ -3362,7 +3362,7 @@
     "kdc16ae4f71d": {
         "key": "kdc16ae4f71d",
         "name": "Musical Chairs",
-        "icon": "\ud83d\udc83",
+        "icon": "💃",
         "tier": "common",
         "desc": "Tap one card through four different possible places. Home is where the heart is, or the spade, or whatever.",
         "notes": ""
@@ -3370,7 +3370,7 @@
     "kaa5d1405eba": {
         "key": "kaa5d1405eba",
         "name": "Neck and Neck",
-        "icon": "\ud83c\udfc1",
+        "icon": "🏁",
         "tier": "rare",
         "desc": "You and a neighbor each have just the four aces on your foundations.",
         "notes": ""
@@ -3378,7 +3378,7 @@
     "k0c2b0bc5a69": {
         "key": "k0c2b0bc5a69",
         "name": "Not That One",
-        "icon": "\ud83d\ude45",
+        "icon": "🙅",
         "tier": "uncommon",
         "desc": "Pass a playable waste card on eight consecutive draws.",
         "notes": ""
@@ -3386,7 +3386,7 @@
     "kcb5ebd9489f": {
         "key": "kcb5ebd9489f",
         "name": "No Vacancy",
-        "icon": "\ud83c\udfe8",
+        "icon": "🏨",
         "tier": "rare",
         "desc": "Win with Auto Complete before emptying any tableau column.",
         "notes": ""
@@ -3394,7 +3394,7 @@
     "k0c6dc6f2f8c": {
         "key": "k0c6dc6f2f8c",
         "name": "Perfectly Level",
-        "icon": "\ud83d\udcd0",
+        "icon": "📐",
         "tier": "rare",
         "desc": "Have all seven tableau piles exactly the same height.",
         "notes": ""
@@ -3402,7 +3402,7 @@
     "kc35817df4d3": {
         "key": "kc35817df4d3",
         "name": "Potted Plant",
-        "icon": "\ud83e\udeb4",
+        "icon": "🪴",
         "tier": "rare",
         "desc": "Lurk without touching a card on five different days.",
         "notes": ""
@@ -3410,7 +3410,7 @@
     "kd4ae81f2999": {
         "key": "kd4ae81f2999",
         "name": "Royal Welcome",
-        "icon": "\ud83c\udfb4",
+        "icon": "🎴",
         "tier": "rare",
         "desc": "Start with three or more Kings exposed.",
         "notes": ""
@@ -3418,7 +3418,7 @@
     "kca8caa3894c": {
         "key": "kca8caa3894c",
         "name": "Rusty",
-        "icon": "\ud83e\uddd3",
+        "icon": "🧓",
         "tier": "common",
         "desc": "Win a deal slower than you did the first time.",
         "notes": ""
@@ -3426,7 +3426,7 @@
     "k6d9efc13d61": {
         "key": "k6d9efc13d61",
         "name": "Scale",
-        "icon": "\ud83c\udfbc",
+        "icon": "🎼",
         "tier": "epic",
         "desc": "The top seven tableau cards ascend in rank from left to right.",
         "notes": ""
@@ -3434,7 +3434,7 @@
     "kbb283e13732": {
         "key": "kbb283e13732",
         "name": "Scorched Earth",
-        "icon": "\ud83c\udfdc\ufe0f",
+        "icon": "🏜️",
         "tier": "rare",
         "desc": "Clear five tableau columns within 60 moves.",
         "notes": ""
@@ -3442,7 +3442,7 @@
     "k65d142945f6": {
         "key": "k65d142945f6",
         "name": "Slow Cooker",
-        "icon": "\u23f2\ufe0f",
+        "icon": "⏲️",
         "tier": "rare",
         "desc": "Win with exactly 1:00:00 on the game timer.",
         "notes": ""
@@ -3450,7 +3450,7 @@
     "kacd524481e9": {
         "key": "kacd524481e9",
         "name": "Champion",
-        "icon": "\ud83c\udfde\ufe0f",
+        "icon": "🏞️",
         "tier": "epic",
         "desc": "Win 150 different deals.",
         "notes": ""
@@ -3458,7 +3458,7 @@
     "k5bd8117eb04": {
         "key": "k5bd8117eb04",
         "name": "Staircase",
-        "icon": "\ud83e\ude9c",
+        "icon": "🪜",
         "tier": "rare",
         "desc": "Have the foundations at exactly 1, 2, 3 and 4 cards, left to right.",
         "notes": ""
@@ -3466,7 +3466,7 @@
     "kdd50d77d013": {
         "key": "kdd50d77d013",
         "name": "True Believer",
-        "icon": "\ud83d\ude4f",
+        "icon": "🙏",
         "tier": "epic",
         "desc": "Deal 1,000 games.",
         "notes": ""
@@ -3474,7 +3474,7 @@
     "k82e5b8d0a41": {
         "key": "k82e5b8d0a41",
         "name": "Devoted",
-        "icon": "\ud83c\udf97\ufe0f",
+        "icon": "🎗️",
         "tier": "rare",
         "desc": "Deal 500 games.",
         "notes": ""
@@ -3482,7 +3482,7 @@
     "ke5263487765": {
         "key": "ke5263487765",
         "name": "Stop and Go",
-        "icon": "\ud83d\udea5",
+        "icon": "🚥",
         "tier": "common",
         "desc": "Win a game with five pauses of 30 seconds or more.",
         "notes": ""
@@ -3490,7 +3490,7 @@
     "k153ad9492d5": {
         "key": "k153ad9492d5",
         "name": "Symmetry",
-        "icon": "\ud83e\udd8b",
+        "icon": "🦋",
         "tier": "epic",
         "desc": "Arrange tableau heights as 1, 3, 5, 7, 5, 3, 1.",
         "notes": ""
@@ -3498,7 +3498,7 @@
     "kc064b548e29": {
         "key": "kc064b548e29",
         "name": "All Cleaned Up",
-        "icon": "\ud83e\udee7",
+        "icon": "🫧",
         "tier": "epic",
         "desc": "Clear all seven tableau columns before completing any suit.",
         "notes": ""
@@ -3506,7 +3506,7 @@
     "k00b5d4815c9": {
         "key": "k00b5d4815c9",
         "name": "Talk of the Table",
-        "icon": "\ud83d\udde3\ufe0f",
+        "icon": "🗣️",
         "tier": "epic",
         "desc": "Your wins have been witnessed 500 times.",
         "notes": ""
@@ -3514,7 +3514,7 @@
     "kfc4eb030349": {
         "key": "kfc4eb030349",
         "name": "Tinkerer",
-        "icon": "\ud83d\udd27",
+        "icon": "🔧",
         "tier": "common",
         "desc": "Open and close settings five times without changing anything.",
         "notes": ""
@@ -3522,7 +3522,7 @@
     "kd9765706253": {
         "key": "kd9765706253",
         "name": "Two Full Days",
-        "icon": "\ud83c\udf17",
+        "icon": "🌗",
         "tier": "epic",
         "desc": "Reach 48 hours of play.",
         "notes": ""
@@ -3530,7 +3530,7 @@
     "k9bb8187705c": {
         "key": "k9bb8187705c",
         "name": "Under the Hood",
-        "icon": "\ud83d\udee0\ufe0f",
+        "icon": "🛠️",
         "tier": "uncommon",
         "desc": "Claim the achievement hiding in the developer console.",
         "notes": ""
@@ -3538,7 +3538,7 @@
     "k7970ea6e91c": {
         "key": "k7970ea6e91c",
         "name": "Force of Habit",
-        "icon": "\u2699\ufe0f",
+        "icon": "⚙️",
         "tier": "epic",
         "desc": "Win 250 games.",
         "notes": ""
@@ -3546,7 +3546,7 @@
     "k806503fc6fd": {
         "key": "k806503fc6fd",
         "name": "Shift Change",
-        "icon": "\ud83d\udeb6\u200d\u2640\ufe0f",
+        "icon": "🚶‍♀️",
         "tier": "epic",
         "desc": "Be online with 1,000 other players.",
         "notes": ""
@@ -3554,7 +3554,7 @@
     "ke4909127a04": {
         "key": "ke4909127a04",
         "name": "Closing Time",
-        "icon": "\ud83e\udd10",
+        "icon": "🤐",
         "tier": "uncommon",
         "desc": "Be online with no other players.",
         "notes": ""
@@ -3562,7 +3562,7 @@
     "k304dd0d2dd6": {
         "key": "k304dd0d2dd6",
         "name": "Epic Saga",
-        "icon": "\u26f0\ufe0f",
+        "icon": "⛰️",
         "tier": "rare",
         "desc": "Witness a win of at least 450 moves.",
         "notes": ""
@@ -3570,7 +3570,7 @@
     "kca4e0c86015": {
         "key": "kca4e0c86015",
         "name": "Late Show",
-        "icon": "\ud83c\udf19",
+        "icon": "🌙",
         "tier": "rare",
         "desc": "Witness a win during the final minute before midnight.",
         "notes": ""
@@ -3578,7 +3578,7 @@
     "k9562b6c96ec": {
         "key": "k9562b6c96ec",
         "name": "Moved a Mountain",
-        "icon": "\ud83d\ude9a",
+        "icon": "🚚",
         "tier": "epic",
         "desc": "Make 50,000 lifetime moves.",
         "notes": ""
@@ -3586,7 +3586,7 @@
     "k692b12e9b7e": {
         "key": "k692b12e9b7e",
         "name": "Notorious",
-        "icon": "\u2620\ufe0f",
+        "icon": "☠️",
         "tier": "rare",
         "desc": "Win one of the ten most-abandoned deals.",
         "notes": ""
@@ -3594,7 +3594,7 @@
     "k65a5c0267b5": {
         "key": "k65a5c0267b5",
         "name": "No Warmup",
-        "icon": "\ud83e\udd76",
+        "icon": "🥶",
         "tier": "epic",
         "desc": "Win within 60 seconds of sitting down.",
         "notes": ""
@@ -3602,7 +3602,7 @@
     "k489bdc191da": {
         "key": "k489bdc191da",
         "name": "Parallel Lives",
-        "icon": "\ud83d\udee4\ufe0f",
+        "icon": "🛤️",
         "tier": "rare",
         "desc": "Be dealt the same puzzle a neighbor is already playing.",
         "notes": ""
@@ -3610,7 +3610,7 @@
     "kc7cc3c4de3f": {
         "key": "kc7cc3c4de3f",
         "name": "Planting Seeds",
-        "icon": "\ud83c\udf3e",
+        "icon": "🌾",
         "tier": "epic",
         "desc": "Five different neighbors win deals they watched you win.",
         "notes": ""
@@ -3618,7 +3618,7 @@
     "k398eeb72a3e": {
         "key": "k398eeb72a3e",
         "name": "Race You",
-        "icon": "\ud83c\udfcd\ufe0f",
+        "icon": "🏍️",
         "tier": "rare",
         "desc": "Win your deal while a neighbor plays the same one.",
         "notes": ""
@@ -3626,7 +3626,7 @@
     "k42b0ed36e2f": {
         "key": "k42b0ed36e2f",
         "name": "Time Lord",
-        "icon": "\u231b",
+        "icon": "⌛",
         "tier": "epic",
         "desc": "Undo 2,000 times.",
         "notes": ""
@@ -3634,7 +3634,7 @@
     "k5fc9fcbe7de": {
         "key": "k5fc9fcbe7de",
         "name": "Grandmaster",
-        "icon": "\u265b",
+        "icon": "♛",
         "tier": "epic",
         "desc": "Win 500 games.",
         "notes": ""
@@ -3642,7 +3642,7 @@
     "x1": {
         "key": "x1",
         "name": "",
-        "icon": "\ud83c\udca0",
+        "icon": "🂠",
         "tier": "unknown",
         "desc": "",
         "notes": "I dont think this is an actual achievment, i think its the placeholder if a user's emoji is broken"
@@ -3814,5 +3814,13 @@
         "tier": "rare",
         "desc": "Be win #100 of the day, worldwide.",
         "notes": ""
-    }
+    },
+        "kcf271306a3d": {
+            "key": "kcf271306a3d",
+            "name": "Fortnight",
+            "icon": "🗓️",
+            "tier": "rare",
+            "desc": "Play fourteen days in a row.",
+            "notes": ""
+        }
 }
