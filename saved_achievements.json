@@ -3815,12 +3815,44 @@
         "desc": "Be win #100 of the day, worldwide.",
         "notes": ""
     },
-        "kcf271306a3d": {
-            "key": "kcf271306a3d",
-            "name": "Fortnight",
-            "icon": "🗓️",
-            "tier": "rare",
-            "desc": "Play fourteen days in a row.",
-            "notes": ""
-        }
+    "kcf271306a3d": {
+        "key": "kcf271306a3d",
+        "name": "Fortnight",
+        "icon": "🗓️",
+        "tier": "rare",
+        "desc": "Play fourteen days in a row.",
+        "notes": ""
+    },
+    "ka71abf8fdaa": {
+        "key": "ka71abf8fdaa",
+        "name": "Good Sport",
+        "icon": "🫡",
+        "tier": "rare",
+        "desc": "High-five a neighbor who beat you to a win on the same deal.",
+        "notes": ""
+    },
+    "k00bc76d5ac3": {
+        "key": "k00bc76d5ac3",
+        "name": "Steady Customer",
+        "icon": "🥐",
+        "tier": "uncommon",
+        "desc": "Play on 25 different days.",
+        "notes": ""
+    },
+    "k07e65a4f996": {
+        "key": "k07e65a4f996",
+        "name": "Unlucky for Some",
+        "icon": "🐈⬛",
+        "tier": "rare",
+        "desc": "Win on a Friday the 13th.",
+        "notes": ""
+    },
+    "k3336ab76364": {
+        "key": "k3336ab76364",
+        "name": "Spooky Shuffle",
+        "icon": "🎃",
+        "tier": "rare",
+        "desc": "Win on Halloween.",
+        "notes": ""
+    }
 }
